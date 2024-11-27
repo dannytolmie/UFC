@@ -12,6 +12,8 @@ from tensorflow.keras.optimizers.schedules import ExponentialDecay
 import joblib
 from flask import abort, request
 
+app = Flask(__name__)
+
 
 fighter_profile = pd.read_csv('model/Fighter Profile CSV.csv')
 fight_history = pd.read_csv('model/Fight History CSV.csv')
@@ -200,8 +202,8 @@ def home():
             mail.send(msg)
 
             return "Email saved"
-            elif request.method == 'GET':
-                return render_template('home.html')
+    elif request.method == 'GET':
+        return render_template('home.html')
 
 
 @app.route('/validate_password', methods=['POST'])
@@ -350,4 +352,4 @@ def fightnight():
 
 if __name__ == '__app__':
    # (host='0.0.0.0', port=8081, debug=True)
-   app.run
+   app.run()
