@@ -300,14 +300,20 @@ def predict():
         data = request.form
         fighter1 = data['fighter1']
         fighter2 = data['fighter2']
+        print(f'{fighter1=} {fighter2=}')
 
-        predicted_winner, prediction_probability = make_prediction(fighter1, fighter2)
+        predicted_winner, prediction_probability = make_prediction(fighter1, fighter2)        
+        print(f'{predicted_winner=}')
+        print(f'{prediction_probability=}')
+
         result = {
             'winner': predicted_winner,
             'probability': float(prediction_probability)
         }
+        print(f'{result=}')
 
         return render_template('index.html', result=result)
+    
     return render_template('index.html')
 
 @app.before_request
