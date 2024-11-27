@@ -9,7 +9,7 @@ from bs4 import BeautifulSoup
 import tensorflow as tf
 from tensorflow.keras.models import load_model
 from tensorflow.keras.optimizers.schedules import ExponentialDecay
-import joblib
+import joblib, json
 from flask import abort, request
 
 app = Flask(__name__)
@@ -298,21 +298,21 @@ def send_images(path):
 def predict():
     if request.method == 'POST':
         data = request.form
-        fighter1 = data['fighter1']
-        fighter2 = data['fighter2']
-        print(f'{fighter1=} {fighter2=}')
+        data = dict(data).keys()
+        data = [x for x in data]
+        data = data[0]
 
+        data = json.loads(data)
+        fighter1 = data.get('fighter1')
+        fighter2 = data.get('fighter2')
+        
         predicted_winner, prediction_probability = make_prediction(fighter1, fighter2)        
-        print(f'{predicted_winner=}')
-        print(f'{prediction_probability=}')
-
         result = {
             'winner': predicted_winner,
             'probability': float(prediction_probability)
         }
-        print(f'{result=}')
+        return jsonify(result)
 
-        return render_template('index.html', result=result)
     
     return render_template('index.html')
 
@@ -358,4 +358,5 @@ def fightnight():
 
 if __name__ == '__app__':
    # (host='0.0.0.0', port=8081, debug=True)
+#    app.run(debug=True)
    app.run()

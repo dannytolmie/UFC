@@ -7,7 +7,7 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-  <link rel="stylesheet" href="/twcss/bundle.css">
+  <link rel="stylesheet" href="{{url_for('static', filename='/twcss/bundle.css')}}">
 
   <script>
     var MemberSpace = window.MemberSpace || {"subdomain":"aifightpredictor"};
@@ -73,11 +73,11 @@
     <div>
       <div
         class="py-[15px] md:px-[40px] px-[30px] bg-[white] border-b  flex items-center sm:justify-start  z-50 fixed left-0 right-0 top-0">
-        <img src="{{url_for('static', filename='/logo.svg')}}" alt="" class="h-[50px] w-[50px]" /><a href="/"
+        <img src="{{url_for('static', filename='/logo.svg')}}" alt="" class="h-[50px] w-[50px]" /><a href="{{url_for('home')}}"
           class="font-semibold text-[14px] opacity-70  hover:text-[#3b8bea] hover:underline ml-[30px] cursor-pointer  sm:flex hidden ">Home</a><a
-          href="/predict"
+          href="{{url_for('predict')}}"
           class="font-semibold text-[14px] opacity-70  hover:text-[#3b8bea] hover:underline ml-[30px] cursor-pointer  sm:flex hidden ">Predictor</a><a
-          href="/fightnight"
+          href="{{url_for('fightnight')}}"
           class="font-semibold text-[14px] opacity-70  hover:text-[#3b8bea] hover:underline ml-[30px] cursor-pointer  sm:flex hidden ">Weekly
           Fight Predictions</a>
         <div class="relative"><svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5"
@@ -86,7 +86,7 @@
           </svg></div>
       </div>
     </div>
-    <div class=" mt-[120px]"><img src="/toplogo.png" alt="" class="m-auto" />
+    <div class=" mt-[120px]"><img src="{{url_for('static', filename='/toplogo.png')}}" alt="" class="m-auto" />
       <p class="sm:text-[45px] text-[30px] font-semibold sm:leading-[60px] leading-[30px] text-center ">AI Fight
         Predictions</p>
       <p class="font-bold sm:text-[45px] text-[30px]  text-center">UFC 310 </p>
