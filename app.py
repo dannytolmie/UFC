@@ -322,11 +322,6 @@ def block_malicious_paths():
     if request.path in blocked_paths:
         return abort(403)  # Forbidden
     
-@app.before_request
-def before_request():
-    if request.scheme != 'https':
-        return redirect(request.url.replace("http://", "https://", 1))
-    
 @app.route('/fightnight')
 def fightnight():
     fights = [
@@ -364,4 +359,4 @@ def fightnight():
 if __name__ == '__app__':
    # (host='0.0.0.0', port=8081, debug=True)
 #    app.run(debug=True)
-   app.run()
+   app.run(host='0.0.0.0')
