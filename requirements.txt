@@ -9,3 +9,4 @@ Flask-Mail
 datetime 
 bs4
 gunicorn
+python-dotenv

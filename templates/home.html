@@ -27,7 +27,7 @@
         }(document));
     </script>
 
-    <link rel="stylesheet" href="/twcss/bundle.css">
+    <link rel="stylesheet" href="{{url_for('static', filename='/twcss/bundle.css')}}">
 
     <link
       rel="stylesheet"
@@ -39,11 +39,11 @@
     <div>
       <div
         class="py-[15px] md:px-[40px] px-[30px] bg-[white] border-b  flex items-center sm:justify-start  z-50 fixed left-0 right-0 top-0">
-        <img  src="{{url_for('static', filename='/logo.svg')}}" alt="logo" class="h-[50px] w-[50px]" /><a href="/"
+        <img  src="{{url_for('static', filename='/logo.svg')}}" alt="logo" class="h-[50px] w-[50px]" /><a href={{url_for('home')}}
           class="font-semibold text-[14px] opacity-70  hover:text-[#3b8bea] hover:underline ml-[30px] cursor-pointer  sm:flex hidden ">Home</a><a
-          href="/predict"
+          href={{url_for('predict')}}
           class="font-semibold text-[14px] opacity-70  hover:text-[#3b8bea] hover:underline ml-[30px] cursor-pointer  sm:flex hidden ">Predictor</a><a
-          href="/fightnight"
+          href={{url_for('fightnight')}}
           class="font-semibold text-[14px] opacity-70  hover:text-[#3b8bea] hover:underline ml-[30px] cursor-pointer  sm:flex hidden ">Weekly
           Fight Predictions</a>
         <div class="relative"><svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5"
@@ -55,7 +55,7 @@
     <div class="">
       <div class="xl:px-[120px] px-[30px] mt-[120px]">
         <div class="grid grid-cols-12 items-center mt-[50px]">
-          <div class="col-span-12 sm:hidden"><img src="/Clip.png" alt="" /></div>
+          <div class="col-span-12 sm:hidden"><img src="{{url_for('static', filename='/Clip.png')}}" alt="" /></div>
           <div class=" sm:col-span-7 col-span-12 ">
             <div class="sm:max-w-[550px] max-w-[100%]">
               <p
@@ -63,14 +63,14 @@
                 the Future of fight Prediction</p>
               <p class="react-reveal text-[#75797B] sm:text-[18px] text-[16px] mt-3 font-semibold">Predict MMA Fights with
                 Unmatched Accuracy</p>
-                <a href="/predict">
+                <a href="{{url_for("predict")}}">
               <div
                 class="react-reveal bg-[#2EB1BE] hover:text-[#2EB1BE] hover:bg-[white] hover:border-[#2EB1BE] border sm:rounded-lg rounded-md text-white px-[30px] flex justify-center items-center h-[40px] font-semibold text-[14px] mt-[20px] w-fit cursor-pointer transition-colors duration-500 ease-in-out ">
                 Get started</div>
               </a>
             </div>
           </div>
-          <div class="col-span-5 sm:block hidden"><img src="/Clip.png" alt="" class="react-reveal" /></div>
+          <div class="col-span-5 sm:block hidden"><img src="{{url_for('static', filename='/Clip.png')}}" alt="" class="react-reveal" /></div>
         </div>
       </div>
       <div class="how-it-works sm:mt-[150px] mt-[50px] bg-[#F2FCFD] py-[100px] xl:px-[120px] px-[30px] ">
@@ -78,7 +78,7 @@
         <div class="grid lg:grid-cols-3 sm:grid-cols-2 grid-cols-1 gap-10 mt-[50px]">
           <div
             class="bg-[#FFF4E3] group hover:bg-[#2EB1BE] cursor-pointer rounded-tr-[70px] rounded-bl-[70px] py-[15px]  px-[20px] w-[100%] transition-all duration-300 ease-in-out">
-            <div class="react-reveal"> </div><img src="/hand.svg" alt="" class="react-reveal m-auto" />
+            <div class="react-reveal"> </div><img src="{{url_for('static', filename='/hand.svg')}}" alt="" class="react-reveal m-auto" />
             <div class="mt-[20px]">
               <p
                 class="react-reveal text-center group-hover:text-white font-bold text-[25px] transition-all duration-300 ease-in-out">
@@ -96,7 +96,7 @@
           </div>
           <div
             class="bg-[#FFF4E3] group hover:bg-[#2EB1BE] cursor-pointer rounded-tr-[70px] rounded-bl-[70px] py-[15px]  px-[20px] w-[100%] transition-all duration-300 ease-in-out">
-            <div class="react-reveal"> </div><img src="/2.svg" alt="" class="react-reveal m-auto" />
+            <div class="react-reveal"> </div><img src="{{url_for('static', filename='/2.svg')}}" alt="" class="react-reveal m-auto" />
             <div class="react-reveal"> </div>
             <div class="mt-[20px]">
               <div class="react-reveal"> </div>
@@ -120,7 +120,7 @@
           </div>
           <div
             class="bg-[#FFF4E3] group hover:bg-[#2EB1BE] cursor-pointer rounded-tr-[70px] rounded-bl-[70px] py-[15px]  px-[20px] w-[100%] transition-all duration-300 ease-in-out">
-            <div class="react-reveal"> </div><img src="/3.svg" alt="" class="react-reveal m-auto" />
+            <div class="react-reveal"> </div><img src="{{url_for('static', filename='/3.svg')}}" alt="" class="react-reveal m-auto" />
             <div class="react-reveal"> </div>
             <div class="mt-[20px]">
               <div class="react-reveal"> </div>
@@ -149,56 +149,56 @@
       <div class="grid md:grid-cols-3 sm:grid-cols-3 grid-cols-1 xl:gap-14 gap-4 mt-[50px] xl:px-[120px] px-[30px]">
         <div
           class="react-reveal bg-[#2EB1BE] rounded-lg p-2 cursor-pointer hover:scale-110 transition-all duration-500 ease-in-out my-hover">
-          <img src="/boxing.svg" alt="" class="w-[100%] rounded-lg " />
+          <img src="{{url_for('static', filename='/boxing.svg')}}" alt="" class="w-[100%] rounded-lg " />
           <div class="py-[15px] px-[15px]">
             <p class="font-bold text-white text-[20px] text-center">+200</p>
           </div>
         </div>
         <div
           class="react-reveal bg-[#2EB1BE] rounded-lg p-2 cursor-pointer hover:scale-110 transition-all duration-500 ease-in-out my-hover">
-          <img src="/1.svg" alt="" class="w-[100%] rounded-lg " />
+          <img src="{{url_for('static', filename='/1.svg')}}" alt="" class="w-[100%] rounded-lg " />
           <div class="py-[15px] px-[15px]">
             <p class="font-bold text-white text-[20px] text-center">+195</p>
           </div>
         </div>
         <div
           class="react-reveal bg-[#2EB1BE] rounded-lg p-2 cursor-pointer hover:scale-110 transition-all duration-500 ease-in-out my-hover">
-          <img src="/4.svg" alt="" class="w-[100%] rounded-lg " />
+          <img src="{{url_for('static', filename='/4.svg')}}" alt="" class="w-[100%] rounded-lg " />
           <div class="py-[15px] px-[15px]">
             <p class="font-bold text-white text-[20px] text-center">+200</p>
           </div>
         </div>
         <div
           class="react-reveal bg-[#2EB1BE] rounded-lg p-2 cursor-pointer hover:scale-110 transition-all duration-500 ease-in-out my-hover">
-          <img src="/5.svg" alt="" class="w-[100%] rounded-lg " />
+          <img src="{{url_for('static', filename='/5.svg')}}" alt="" class="w-[100%] rounded-lg " />
           <div class="py-[15px] px-[15px]">
             <p class="font-bold text-white text-[20px] text-center">+205</p>
           </div>
         </div>
         <div
           class="react-reveal bg-[#2EB1BE] rounded-lg p-2 cursor-pointer hover:scale-110 transition-all duration-500 ease-in-out my-hover">
-          <img src="/6.svg" alt="" class="w-[100%] rounded-lg " />
+          <img src="{{url_for('static', filename='/6.svg')}}" alt="" class="w-[100%] rounded-lg " />
           <div class="py-[15px] px-[15px]">
             <p class="font-bold text-white text-[20px] text-center">+175</p>
           </div>
         </div>
         <div
           class="react-reveal bg-[#2EB1BE] rounded-lg p-2 cursor-pointer hover:scale-110 transition-all duration-500 ease-in-out my-hover">
-          <img src="/7.svg" alt="" class="w-[100%] rounded-lg " />
+          <img src="{{url_for('static', filename='/7.svg')}}" alt="" class="w-[100%] rounded-lg " />
           <div class="py-[15px] px-[15px]">
             <p class="font-bold text-white text-[20px] text-center">+205</p>
           </div>
         </div>
         <div
           class="react-reveal bg-[#2EB1BE] rounded-lg p-2 cursor-pointer hover:scale-110 transition-all duration-500 ease-in-out my-hover">
-          <img src="/8.svg" alt="" class="w-[100%] rounded-lg " />
+          <img src="{{url_for('static', filename='/8.svg')}}" alt="" class="w-[100%] rounded-lg " />
           <div class="py-[15px] px-[15px]">
             <p class="font-bold text-white text-[20px] text-center">+210</p>
           </div>
         </div>
         <div
           class="react-reveal bg-[#2EB1BE] rounded-lg p-2 cursor-pointer hover:scale-110 transition-all duration-500 ease-in-out my-hover">
-          <img src="/9.svg" alt="" class="w-[100%] rounded-lg " />
+          <img src="{{url_for('static', filename='/9.svg')}}" alt="" class="w-[100%] rounded-lg " />
           <div class="py-[15px] px-[15px]">
             <p class="font-bold text-white text-[20px] text-center">+305</p>
           </div>
@@ -207,7 +207,7 @@
       <div class="about-ai md:mt-[100px] mt-[50px] xl:px-[120px] px-[30px] bg-[#F2FCFD] py-[100px]">
         <p class="react-reveal sm:text-[45px] text-[30px]  text-center font-semibold">About the AI</p>
         <div class="grid grid-cols-12 mt-[50px] items-center">
-          <div class="col-span-12 md:hidden"><img src="/big.svg" alt="" class="m-auto" /></div>
+          <div class="col-span-12 md:hidden"><img src="{{url_for('static', filename='/big.svg')}}" alt="" class="m-auto" /></div>
           <div class="md:col-span-5 col-span-12">
             <div class=" text-white ">
               <div class="flex items-center h-[60px]  py-[10px] px-3 bg-[#2EB1BE]"><svg xmlns="http://www.w3.org/2000/svg"
@@ -236,7 +236,7 @@
               </div>
             </div>
           </div>
-          <div class="col-span-7 md:block hidden"><img src="/big.svg" alt="" class="m-auto" /></div>
+          <div class="col-span-7 md:block hidden"><img src="{{url_for('static', filename='/big.svg')}}" alt="" class="m-auto" /></div>
         </div>
         <div class="grid sm:grid-cols-2 gap-8 mt-[30px]">
           <div class="react-reveal bg-[#2EB1BE] py-[15px] px-[20px] rounded-md text-white text-[20px]">
