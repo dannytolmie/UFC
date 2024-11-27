@@ -7,7 +7,6 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-  <link rel="stylesheet" href="{{url_for('static', filename='/twcss/bundle.css')}}">
   <script src="https://cdn.tailwindcss.com"></script>
 
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
@@ -157,14 +156,14 @@ id="fighter1" name="fighter1" list="fighter1-list" required
         <p id="loading" class="text-center mt-4 hidden">Loading...</p>
       <div id="result" class="max-w-[300px] m-auto hidden">
         <p class="font-bold text-[20px]  mt-[30px]">Prediction:</p>
-        <p id="winner" class="font-bold text-[16px]  mt-[10px]">Predicted Winner: Tom Aspinall</p>
-        <p id="probability" class="font-bold   mt-[10px]">Probability: 90.40%</p>
+        <p id="winner" class="font-bold text-[16px]  mt-[10px]">Predicted Winner: </p>
+        <p id="probability" class="font-bold   mt-[10px]">Probability: </p>
       </div>
 	  <a
        href="{{url_for("fightnight")}}">
         <div
           class="bg-[#2EB1BE] hover:text-[#2EB1BE] hover:bg-[white] m-auto max-w-[300px] w-[100%] hover:border-[#2EB1BE] border sm:rounded-lg rounded-md text-white px-[30px] flex justify-center items-center h-[40px] font-semibold text-[14px] mt-[20px] cursor-pointer transition-colors duration-500 ease-in-out ">
-          See Upcoming Fights</div>
+          See Upcoming Fights</div> </a>
     </div>
     <div class="bg-[#F2FCFD] xl:px-[120px] px-[30px]">
       <div class=" py-[50px] mt-[50px] ">
@@ -186,10 +185,6 @@ id="fighter1" name="fighter1" list="fighter1-list" required
           wisely, and never bet more than you can afford to lose.</p>
       </div>
     </div>
-  </div>
-
-  <div>
-    {{result}}
   </div>
 
   <script src="{{url_for('static', filename='/scripts.js')}}"></script>
