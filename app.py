@@ -13,19 +13,7 @@ import joblib
 from flask import abort, request
 
 
-app = Flask(__name__, static_folder='static', static_url_path='')
-app.secret_key = 'whitexboxremote'
 
-# Flask-Mail configuration
-app.config.update(
-    MAIL_SERVER='smtp.gmail.com',
-    MAIL_PORT=465,
-    MAIL_USE_SSL=True,
-    MAIL_USERNAME='danieltolmienz@gmail.com',
-    MAIL_PASSWORD='ydcavlhrymyuqzrc'
-)
-
-mail = Mail(app)
 
 fighter_profile = pd.read_csv('model/Fighter Profile CSV.csv')
 fight_history = pd.read_csv('model/Fight History CSV.csv')
