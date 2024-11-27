@@ -33,8 +33,6 @@ document.getElementById("fighter2").addEventListener("input", function () {
 
 form.addEventListener("submit", async function (event) {
     event.preventDefault();
-
-
     let fighter1 = document.getElementById("fighter1").value;
     let fighter2 = document.getElementById("fighter2").value;
 
