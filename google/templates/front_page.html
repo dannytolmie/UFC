@@ -1,0 +1,7 @@
+<!-- front_page.html -->
+<h1>Welcome to My Blog!</h1>
+<ul>
+    {% for post in blog_posts %}
+        <li><a href="{{ url_for('read_blog', filename=post['filename']) }}">{{ post['title'] }}</a></li>
+    {% endfor %}
+</ul>

@@ -1,0 +1,14 @@
+runtime: python310
+entrypoint: python main.py
+instance_class: F2
+
+inbound_services:
+  - warmup
+
+
+
+handlers:
+- url: /static
+  static_dir: static/
+- url: /.*
+  script: auto

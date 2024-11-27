@@ -1,0 +1,10 @@
+Flask
+pandas
+numpy
+Keras
+joblib
+tensorflow
+scikit-learn
+Flask-Mail
+datetime 
+bs4
