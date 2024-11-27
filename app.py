@@ -307,7 +307,7 @@ def predict():
             'probability': float(prediction_probability)
         }
 
-        return jsonify(result)
+        return render_template('index.html', result=result)
     return render_template('index.html')
 
 @app.before_request
