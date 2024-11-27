@@ -1,0 +1,16 @@
+[
+  {
+    "id": "1",
+    "title": "Post Title 1",
+    "date": "2023-05-10",
+    "author": "Author Name",
+    "content": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit...</p>"
+  },
+  {
+    "id": "2",
+    "title": "Post Title 2",
+    "date": "2023-05-15",
+    "author": "Author Name",
+    "content": "<p>Another example post content...</p>"
+  }
+]

@@ -1,0 +1,43 @@
+<!-- blog_post.html -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI Fight Predictor - Blog</title>
+	<link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+
+    <style>
+        body {
+            font-family: 'Roboto', sans-serif;
+        }
+        #logo {
+            max-width: 200px;
+            margin-bottom: 20px;
+        }
+        .container {
+            max-width: 600px;
+        }
+    </style>
+</head>
+<body>
+    <nav class="navbar navbar-expand-lg navbar-light bg-light">
+        <a class="navbar-brand" href="{{ url_for('home') }}">AI Fight Predictor</a>
+        <!-- Rest of the navigation code -->
+    </nav>
+
+    <div class="container mt-5">
+        <header class="text-center my-4">
+            <img src="{{ url_for('static', filename='images/logo.png') }}" alt="Logo" id="logo">
+            <h1>AI Fight Predictor - Blog</h1>
+        </header>
+        <div class="blog-content">
+            {{ blog_content|safe }}
+        </div>
+    </div>
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+</body>
+</html>
