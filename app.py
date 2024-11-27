@@ -321,7 +321,12 @@ def block_malicious_paths():
     blocked_paths = ["/xmlrpc.php", "/admin.php", "/pegi.php"]
     if request.path in blocked_paths:
         return abort(403)  # Forbidden
-
+    
+@app.before_request
+def before_request():
+    if request.scheme != 'https':
+        return redirect(request.url.replace("http://", "https://", 1))
+    
 @app.route('/fightnight')
 def fightnight():
     fights = [
