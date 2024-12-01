@@ -337,7 +337,7 @@ def fightnight():
         {"fighter1": "Michael Chiesa", "fighter2": "Max Griffin"},
         {"fighter1": "Clay Guida", "fighter2": "Chase Hooper"},
         {"fighter1": "Cody Durden", "fighter2": "Joshua Van"},
-        {"fighter1": "Tallison Teixeira", "fighter2": "Lukasz Brzeski"},
+        {"fighter1": "Kennedy Nzechukwu", "fighter2": "Lukasz Brzeski"},
         
         # Add more fights as needed
     ]
