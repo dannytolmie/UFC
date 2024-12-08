@@ -325,19 +325,21 @@ def block_malicious_paths():
 @app.route('/fightnight')
 def fightnight():
     fights = [
-        {"fighter1": "Shavkat Rakhmonov", "fighter2": "Ian Garry"},
-        {"fighter1": "Ciryl Gane", "fighter2": "Alexander Volkov"},
-        {"fighter1": "Bryce Mitchell", "fighter2": "Kron Gracie"},
-        {"fighter1": "Nate Landwehr", "fighter2": "Dooho Choi"},
-        {"fighter1": "Dominick Reyes", "fighter2": "Anthony Smith"},
-        {"fighter1": "Themba Gorimbo", "fighter2": "Vicente Luque"},
-        {"fighter1": "Bryan Battle", "fighter2": "Randy Brown"},
-        {"fighter1": "Movsar Evloev", "fighter2": "Aljamain Sterling"},        
-        {"fighter1": "Chris Weidman", "fighter2": "Eryk Anders"},
-        {"fighter1": "Michael Chiesa", "fighter2": "Max Griffin"},
-        {"fighter1": "Clay Guida", "fighter2": "Chase Hooper"},
-        {"fighter1": "Cody Durden", "fighter2": "Joshua Van"},
-        {"fighter1": "Kennedy Nzechukwu", "fighter2": "Lukasz Brzeski"},
+        {"fighter1": "Colby Covington", "fighter2": "Joaquin Buckley"},
+        {"fighter1": "Cub Swanson", "fighter2": "Billy Quarantillo"},
+        {"fighter1": "Vitor Petrino", "fighter2": "Dustin Jacoby"},
+        {"fighter1": "Adrian Yanez", "fighter2": "Daniel Marcos"},
+        {"fighter1": "Manel Kape", "fighter2": "Bruno Silva"},
+        {"fighter1": "Navajo Stirling", "fighter2": "Tuco Tokkos"},
+        {"fighter1": "Michael Johnson", "fighter2": "Ottman Azaitar"},
+        {"fighter1": "Joel Alvarez", "fighter2": "Drakkar Klose"},        
+        {"fighter1": "Sean Woodson", "fighter2": "Fernando Padilla"},
+        {"fighter1": "Miles Johns", "fighter2": "Felipe Lima"},
+        {"fighter1": "Miranda Maverick", "fighter2": "Jamey-Lyn Horth"},
+        {"fighter1": "Davey Grant", "fighter2": "Ramon Taveras"},
+        {"fighter1": "Josefine Knutsson", "fighter2": "Piera Rodriguez"},
+        
+   
         
         # Add more fights as needed
     ]
