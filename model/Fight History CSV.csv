@@ -1,521 +1,510 @@
 ﻿Fighter1_ID,Fighter2_ID,Winner_ID,Method,Round
-3234,4025,4025,TKO (punches),3
-2879,2591,2879,"Decision (split) (46–49, 48–47, 48–47)",5
-4111,979,979,TKO (punches),2
-3915,1649,1649,"Decision (split) (28–29, 29–28, 29–28)",3
-2719,4154,2719,TKO (punches),1
-2079,3051,2079,KO (punches),1
-3773,635,3773,"Decision (unanimous) (29–27, 29–27, 29–27)",3
-1347,1768,1347,TKO (punches),1
-2471,787,2471,Submission (guillotine choke),2
-2978,3039,2978,Submission (arm-triangle choke),3
-3308,2533,3308,TKO (punches),1
-3164,1959,3164,"Decision (unanimous) (29–28, 29–28, 29–28)",3
-11,2274,3727,TKO (punches),2
-856,1730,856,"Decision (unanimous) (30–26, 30–27, 30–27)",3
-1433,2583,2583,"Decision (unanimous) (29–28, 29–28, 29–28)",3
-1292,816,816,"Decision (split) (28–29, 30–27, 29–28)",3
-394,3320,3320,Submission (rear-naked choke),1
-3305,1144,3305,KO (punches),1
-2108,1114,1114,Technical Submission (guillotine choke),1
-453,4138,453, ,1
-3269,3391,3269,"Decision (split) (28–29, 29–28, 29–28)",3
-442,2028,442,TKO (punches),3
-2981,590,590,"Decision (unanimous) (29–28, 29–28, 29–28)",3
-1733,3255,3255,"Decision (unanimous) (30–27, 30–27, 30–27)",3
-3867,1059,3867,"Decision (unanimous) (50–44, 50–42, 49–45)",5
-252,3159,252,TKO (punches and elbows),2
-3769,2055,2055,No Contest (accidental eye poke),1
-3396,2822,2822,KO (punch),2
-84,3546,84,Submission (rear-naked choke),1
-3286,2269,2269,"Decision (split) (29–28, 28–29, 29–28)",3
-471,3913,471,"Decision (unanimous) (29–28, 29–28, 29–28)",3
-3125,3088,3125,TKO (punch),2
-3167,3216,3167,"Decision (unanimous) (29–28, 29–28, 30–27)",3
-4249,3953,3953,"Decision (split) (28–29, 29–28, 29–28)",3
-1058,1776,1776,"Decision (split) (27–30, 29–28, 29–28)",3
-479,997,997,"Decision (unanimous) (30–27, 29–28, 30–27)",3
-566,3996,566,"Decision (unanimous) (49–45, 49–45, 48–46)",5
-3897,3543,3897,TKO (punches),3
-2980,1000,2980,"Decision (unanimous) (30–27, 29–28, 29–28)",3
-3311,96,3311,Submission (arm-triangle choke),2
-2608,3877,3877,KO (elbow),1
-819,3336,819,"Decision (unanimous) (30–27, 30–27, 29–28)",3
-755,1177,755,TKO (elbows),2
-3084,1881,1881,Submission (rear-naked choke),1
-390,1586,1586,"Technical Decision (unanimous) (30–27, 30–27, 29–28)",3
-371,1136,371,"Decision (unanimous) (30–27, 30–27, 30–27)",3
-2083,171,171,No Contest (overturned),1
-2914,498,498,"Decision (unanimous) (30–27, 29–28, 29–28)",3
-58,2760,2760,"Decision (unanimous) (50–44, 50–44, 50–43)",5
-2802,839,2802,TKO (punches),1
-2300,1232,2300,Submission (guillotine choke),2
-2054,1699,1699,"Decision (unanimous) (29–28, 29–28, 30–27)",3
-128,272,272,"Decision (unanimous) (30–27, 30–27, 30–27)",3
-1708,810,1708,No Contest (accidental clash of heads),2
-1766,2385,1766,"Decision (unanimous) (29–28, 29–28, 29–28)",3
-2704,347,2704,"Decision (unanimous) (30–27, 30–27, 29–28)",3
-304,2806,304,"Decision (unanimous) (30–27, 30–27, 29–28)",3
-1884,46,46,"Decision (split) (47–48, 48–47, 48–47)",5
-3013,534,534,"Decision (unanimous) (29–28, 29–28, 29–28)",3
-2500,526,2500,KO (punch),1
-102,1046,1046,"Decision (unanimous) (30–27, 30–27, 29–28)",3
-3653,3553,3553,Submission (kneebar),1
-4229,2767,4229,"Decision (split) (28–29, 29–28, 29–28)",3
-2629,3395,3395,"Decision (unanimous) (29–27, 29–27, 29–27)",3
-174,2390,2390,TKO (punches),2
-1252,612,612,"Decision (unanimous) (29–27, 29–27, 29–27)",3
-2661,2622,2661,TKO (punches),2
-1226,3131,3131,"Decision (unanimous) (29–28, 29–28, 29–28)",3
-2039,365,365,TKO (punches),2
-2175,1439,2175,"Decision (unanimous) (29–28, 29–28, 30–27)",3
-899,1608,899,"Decision (unanimous) (49–43, 49–44, 49–44)",5
-3486,1584,1584,TKO (elbows and punches),3
-985,1339,1339,"Decision (unanimous) (30–27, 29–28, 29–28)",3
-490,1147,490,TKO (head kick),2
-1142,1802,1142,KO (punch),2
-2002,893,2002,"Decision (unanimous) (30–27, 30–27, 30–27)",3
-749,3933,3933,TKO (front kick and knees),2
-2682,2070,2682,"Decision (split) (29–28, 28–29, 29–28)",3
-1650,1165,1650,"Decision (unanimous) (30–26, 30–27, 30–27)",3
-2128,3550,3550,TKO (punches and head kick),1
-1385,3414,1385,"Decision (unanimous) (30–27, 30–27, 30–27)",3
-3291,95,95,Submission (rear-naked choke),1
-3600,4041,4041,"Decision (unanimous) (29–28, 30–27, 30–27)",3
-2249,3237,2249,TKO (head kick and punches),1
-3924,3034,3924,TKO (punches),1
-2440,2597,2597,Submission (guillotine choke),2
-464,2418,464,KO (punch),1
-4131,3499,4131,"Decision (unanimous) (30–27, 30–27, 29–28)",3
-3678,3559,3559,"Decision (unanimous) (29–28, 29–28, 29–28)",3
-288,1428,288,KO (punch),1
-685,2176,2176,Submission (rear-naked choke),3
-627,3697,3697,"Decision (split) (47–48, 48–47, 48–47)",5
-2618,509,2618,"Decision (unanimous) (50–45, 49–46, 49–46)",5
-138,4187,4187,KO (punches),1
-1102,2197,1102,"Decision (unanimous) (29–28, 29–28, 30–27)",3
-1411,1846,1846,"Decision (unanimous) (30–27, 30–27, 30–27)",3
-1225,939,1225,TKO (punches),1
-684,2769,2769,Technical Submission (guillotine choke),2
-4130,299,4130,"Decision (split) (27–30, 29–28, 29–28)",3
-1756,3236,1756,"Decision (unanimous) (29–28, 29–28, 30–27)",3
-3033,3607,3033,TKO (punches),1
-79,1541,79,KO (punches),1
-1634,3162,3162,TKO (punches),2
-3628,3565,3628,TKO (punches),5
-403,2800,403,Submission (rear-naked choke),2
-479,4006,4006,Submission (arm-triangle choke),2
-1074,2858,2858,TKO (punches),1
-3246,744,3246,"Decision (unanimous) (29–28, 29–28, 29–28)",3
-491,712,491,"Decision (unanimous) (29–28, 29–28, 29–28)",3
-1006,1812,1006,"Decision (unanimous) (30–27, 30–27, 30–27)",3
-1034,63,63,Submission (kneebar),1
-2711,2419,2419,Submission (rear-naked choke),2
-768,1659,1659,"Decision (unanimous) (29–28, 29–28, 29–28)",3
-2917,370,2917,TKO (punches),1
-3804,3546,3546,TKO (knee and punch),1
-1426,1380,1426,No Contest (accidental clash of heads),1
-4094,3467,4094,"Decision (split) (30–27, 28–29, 30–27)",3
-1307,1336,1307,KO (punch),1
-4176,1750,1750,KO (punches),1
-998,3269,998,"Decision (unanimous) (29–28, 29–28, 29–28)",3
-3770,3938,3938,"Decision (unanimous) (29–28, 29–28, 29–28)",3
-1359,2335,1359,"Decision (split) (29–28, 28–29, 29–28)",3
-828,1601,1601,TKO (punches),3
-1629,83,1629,"Decision (unanimous) (49–46, 49–46, 48–47)",5
-255,3075,255,KO (knee),1
-2648,1753,2648,"Decision (unanimous) (29–28, 29–28, 29–28)",3
-406,811,811,TKO (punches),1
-1471,2625,2625,"Decision (unanimous) (30–27, 30–27, 30–27)",3
-1452,1283,1283,"Decision (unanimous) (30–27, 30–27, 30–27)",3
-473,74,74,Submission (rear-naked choke),2
-3290,2721,3290,KO (knee and elbows),1
-1577,797,797,TKO (punches),3
-3242,3216,3216,Submission (armbar),2
-3963,4236,4236,"Decision (unanimous) (29–27, 29–28, 30–27)",3
-436,1347,1347,TKO (punches),2
-388,2993,388,"Decision (unanimous) (29–28, 29–28, 30–27)",3
-1032,3059,1032,"Decision (split) (29–28, 28–29, 29–28)",3
-2953,20,20,KO (punches),2
-509,2369,509,"Decision (unanimous) (30–27, 30–27, 29–28)",3
-1189,4191,1189,TKO (punches),1
-3029,1627,1627,KO (punch),3
-3243,3271,3243,"Decision (unanimous) (29–27, 29–28, 29–28)",3
-1290,810,1290,"Decision (unanimous) (29–28, 29–28, 30–27)",3
-3016,4075,3016,"Decision (split) (28–29, 29–28, 29–28)",3
-2451,3069,3069,TKO (punches),1
-543,1339,1339,"Decision (split) (28–29, 29–28, 30–27)",3
-2788,234,234,"Decision (unanimous) (30–27, 30–27, 29–28)",3
-1281,2758,1281,KO (body kick and punches),2
-1683,125,1683,"Decision (unanimous) (29–28, 29–28, 29–28)",3
-3987,3362,3362,"Decision (split) (47–48, 50–45, 49–46)",5
-3391,1632,1632,"Decision (unanimous) (30–26, 30–27, 30–27)",3
-2054,2173,2054,Submission (rear-naked choke),2
-2110,252,252,"Decision (split) (28–29, 29–28, 30–27)",3
-1004,2737,1004,"Decision (split) (28–29, 29–28, 29–28)",3
-3013,2233,3013,Submission (guillotine choke),2
-2977,69,69,"Decision (unanimous) (30–27, 30–27, 30–27)",3
-1319,2900,1319,"Decision (split) (29–28, 28–29, 29–28)",3
-3343,102,102,"Decision (unanimous) (29–28, 29–28, 29–28)",3
-1029,3937,1029,"Decision (majority) (48–46, 48–46, 47–47)",5
-1250,1173,1250,"Decision (majority) (29–28, 29–28, 28–28)",3
-253,2703,2703,Submission (armbar),1
-2778,2284,2284,"Decision (unanimous) (30–27, 29–28, 29–28)",3
-946,3996,3996,"Decision (unanimous) (29–28, 29–28, 30–27)",3
-3516,124,3516,Submission (rear-naked choke),2
-2582,999,999,"Decision (split) (27–30, 29–28, 29–28)",3
-2913,190,190,KO (punches),1
-2551,1157,2551,Submission (neck crank),3
-3396,2644,2644,"Decision (split) (28–29, 29–28, 29–28)",3
-1000,3857,1000,TKO (knee injury),1
-1477,1382,1477,TKO (punches),1
-590,4152,4152,"Decision (split) (28–29, 30–27, 29–28)",3
-1965,1576,1576,"Draw (majority) (29–27, 28–28, 28–28)",3
-2506,1513,1513,"Decision (unanimous) (30–27, 30–27, 30–27)",3
-4188,1010,1010,"Decision (unanimous) (50–45, 50–45, 50–45)",5
-3255,4027,4027,TKO (punches),1
-3658,2010,2010,Submission (triangle choke),1
-2766,2349,2349,"Decision (unanimous) (29–28, 29–28, 29–28)",3
-565,290,290,Submission (rear-naked choke),1
-3912,2978,2978,"Decision (unanimous) (30–26, 30–27, 30–27)",3
-486,4131,4131,"Decision (unanimous) (30–26, 30–26, 30–27)",3
-202,1417,1417,Technical Submission (inverted triangle choke),3
-997,1222,1222,Submission (guillotine choke),2
-1574,1420,1574,"Decision (split) (30–27, 28–29, 29–28)",3
-62,816,816,"Decision (unanimous) (30–27, 30–27, 30–27)",3
-1525,1375,1525,"Decision (unanimous) (30–27, 30–27, 30–27)",3
-1817,1271,1817,Submission (guillotine choke),1
-1419,3500,1419,Submission (face crank),4
-2696,3093,3093,Submission (rear-naked choke),3
-1268,3915,1268,"Decision (split) (29–28, 28–29, 30–27)",3
-2719,3003,2719,Submission (arm-triangle choke),1
-1831,1275,1275,"Decision (unanimous) (29–28, 29–28, 29–28)",3
-979,482,979,TKO (corner stoppage),2
-3159,165,3159,"Decision (unanimous) (29–27, 30–26, 30–27)",3
-272,2327,272,TKO (punches),2
-3627,2249,2249,TKO (punches),3
-2942,3167,3167,Submission (armbar),2
-281,365,281,"Decision (unanimous) (29–28, 29–28, 29–28)",3
-3088,3164,3088,"Decision (unanimous) (29–28, 29–28, 29–28)",3
-2626,84,84,Submission (rear-naked choke),3
-3324,2390,3324,"Decision (unanimous) (30–27, 30–27, 30–27)",3
-3734,864,3734,Submission (guillotine choke),2
-2047,2300,2300,Submission (arm-triangle choke),1
-2929,1371,2929,KO (punches),1
-1136,1766,1766,"Decision (unanimous) (30–26, 30–26, 30–26)",3
-2353,2093,2093,TKO (knees and punches),1
-1812,2832,2832,"Decision (split) (28-29, 29-28, 29-28)",3
-3623,876,3623,Technical Submission (rear-naked choke),2
-78,113,78,"Decision (majority) (29–27, 29–27, 28–28)",3
-367,138,367,Submission (rear-naked choke),2
-4166,2914,2914,"Decision (unanimous) (30–27, 30–27, 29–28)",3
-3021,2886,3021,"Decision (unanimous) (30–27, 30–27, 29–28)",3
-1975,3039,3039,"Decision (unanimous) (30–27, 30–27, 30–27)",3
-2500,1583,1583,"Decision (unanimous) (30–27, 30–27, 29–28)",3
-3313,1039,3313,TKO (doctor stoppage),3
-496,2059,496,Submission (kneebar),2
-195,1058,1058,"Decision (unanimous) (30–27, 30–27, 30–27)",3
-2175,3321,2175,KO (punches),1
-1175,1385,1175,Submission (guillotine choke),2
-592,3262,592,Submission (rear-naked choke),1
-4025,2289,2289,"Decision (unanimous) (48–47, 48–47, 49–46)",5
-3234,1059,3234,Submission (triangle choke),2
-471,887,887,Submission (rear-naked choke),1
-3769,3033,3769,KO (punch),1
-787,2471,787,"Draw (majority) (29–27, 28–28, 28–28)",3
-498,2928,498,"Decision (unanimous) (30–27, 29–28, 29–28)",3
-794,232,794,Submission (rear-naked choke),2
-3230,3277,3230,TKO (punches),1
-3041,2622,2622,"Decision (unanimous) (30–27, 30–27, 30–27)",3
-1776,3488,1776,"Decision (unanimous) (30–27, 30–27, 29–28)",3
-3131,2193,2193,Submission (rear-naked choke),2
-347,4216,347,"Decision (unanimous) (30–27, 30–27, 29–28)",3
-442,3906,442,"Decision (split) (29–28, 28–29, 30–27)",3
-3670,2144,3670,Submission (arm-triangle choke),1
-3917,1733,3917,"Decision (unanimous) (30–27, 29–28, 29–28)",3
-2704,659,659,"Draw (majority) (29–27, 28–28, 28–28)",3
-1232,1958,1232,TKO (elbows),1
-1853,3403,1853,TKO (punches and elbows),2
-1904,2670,2670,KO (punch),1
-3816,1610,1610,"Decision (unanimous) (50–44, 50–44, 50–44)",5
-1152,2591,2591,TKO (doctor stoppage),3
-509,2269,509,Submission (arm-triangle choke),1
-138,2642,138,"Decision (unanimous) (30–25, 30–25, 30–26)",3
-772,4041,4041,TKO (punches),1
-3292,3034,3034,TKO (punches),1
-3229,1144,1144,KO (punch),1
-2550,756,2550,Submission (face crank),2
-393,2088,393,Submission (guillotine choke),1
-95,7,95,TKO (punches),2
-3678,2039,3678,"Decision (unanimous) (29–28, 29–28, 29–28)",3
-394,2431,394,KO (flying knee),2
-112,819,819,"Decision (split) (29–28, 28–29, 29–28)",3
-2808,2315,2315,KO (knee to the body and punches),2
-3727,1708,3727,"Decision (unanimous) (49–46, 49–46, 48–47)",5
-1746,1699,1699,KO (punch),2
-1992,3637,1992,TKO (body kick and punches),2
-4005,2945,2945,"Decision (split) (29–28, 28–29, 29–28)",3
-2768,256,2768,KO (body kick and punch),1
-2468,280,280,"Decision (unanimous) (30–27, 30–27, 29–28)",3
-3123,3162,3123,KO (punches),2
-3125,1165,3125,"Decision (unanimous) (30–26, 30–27, 30–27)",3
-2681,1586,2681,Submission (rear-naked choke),1
-33,171,171,"Decision (unanimous) (30–27, 30–27, 30–27)",3
-1812,1177,1812,TKO (elbows and punches),1
-3727,566,566,"Decision (split) (49–46, 46–49, 49–46)",5
-3897,1730,3897,"Decision (unanimous) (30–27, 30–27, 30–27)",3
-46,755,46,KO (punches),3
-1074,534,534,TKO (head kick and punches),1
-1426,939,939,KO (punch),2
-2800,479,2800,KO (punches),1
-2428,4021,2428,"Decision (unanimous) (29–28, 29–28, 29–28)",3
-2379,3467,3467,"Decision (unanimous) (30–27, 29–28, 29–28)",3
-2766,1869,2766,Submission (ninja choke),2
-288,1114,1114,"Decision (unanimous) (30–25, 30–25, 30–27)",3
-1882,1011,1882,"Decision (unanimous) (30–27, 30–27, 29–28)",3
-2599,2711,2599,"Decision (unanimous) (30–27, 29–28, 29–28)",3
-359,150,359,"Draw (split) (48–47, 46–48, 47–47)",5
-1380,3012,3012,"Decision (unanimous) (29–28, 29–28, 29–28)",3
-3029,2597,3029,KO (punches),3
-979,3852,979,Submission (face crank),3
-3867,2531,3867,Submission (arm-triangle choke),2
-3271,2968,3271,Submission (face crank),1
-3291,842,3291,TKO (punches),1
-2227,3486,3486,TKO (punches),2
-810,490,810,KO (punches),2
-1583,3075,3075,TKO (knees and punches),2
-473,3554,473,Submission (arm-triangle choke),3
-1996,3308,3308,TKO (knees and punches),3
-3845,1627,3845,TKO (corner stoppage),4
-253,955,955,Submission (neck crank),2
-3442,2721,2721,KO (punches),2
-3905,2917,2917,KO (punches),1
-1579,946,946,TKO (punches),2
-128,841,128,TKO (punches),2
-3286,3051,3286,TKO (punches),3
-1608,985,1608,"Decision (unanimous) (30–27, 30–27, 30–27)",3
-1639,1452,1452,"Decision (split) (28–29, 29–28, 29–28)",3
-1802,910,1802,"Decision (unanimous) (29–28, 29–28, 30–27)",3
-2922,1043,2922,"Decision (unanimous) (30–27, 30–27, 30–26)",3
-2142,3943,2142,"Decision (unanimous) (29–28, 29–28, 30–27)",3
-3251,2335,2335,KO (punches),2
-1768,2762,1768,TKO (punches),2
-811,2769,2769,TKO (knee and punches),2
-3499,744,744,"Decision (unanimous) (30–27, 29–28, 29–28)",3
-3336,1147,3336,TKO (spinning wheel kick and punches),3
-3213,887,887,TKO (punches),1
-1812,4249,1812,"Decision (split) (29–28, 28–29, 29–28)",3
-2598,2284,2284,"Decision (unanimous) (30–27, 29–28, 29–28)",3
-1793,2581,1793,"Decision (unanimous) (30–27, 29–28, 29–28)",3
-2688,3911,3911,"Decision (split) (29–28, 28–29, 29–28)",3
-2806,893,893,"Decision (unanimous) (29–28, 29–28, 29–28)",3
-1601,1284,1601,"Decision (unanimous) (29–28, 29–28, 29–28)",3
-3550,371,3550,TKO (spinning back kick and punches),3
-2953,20,2953,TKO (punches),5
-1085,4243,4243,Submission (rear-naked choke),2
-638,3023,3023,Submission (rear-naked choke),3
-1024,1471,1471,KO (knee),1
-3060,1649,1649,TKO (body kick),2
-2549,3174,2549,Submission (rear-naked choke),1
-3151,3658,3658,KO (punches),1
-2400,367,367,Submission (kimura),1
-3913,2979,2979,"Decision (unanimous) (30–27, 30–27, 29–28)",3
-1225,220,1225,KO (punch),1
-2002,1357,2002,"Decision (unanimous) (29–28, 29–28, 29–28)",3
-166,1750,1750,"Decision (unanimous) (30–27, 30–27, 29–28)",3
-2699,3924,3924,KO (punches),1
-2121,3236,2121,TKO (punches),3
-2269,3237,2269,Submission (D'Arce choke),3
-2512,2758,2758,TKO (elbows),1
-2303,3923,3923,Submission (guillotine choke),1
-856,2259,856,Submission (rear-naked choke),3
-4217,2385,2385,"Decision (unanimous) (30–26, 30–26, 30–26)",3
-2206,290,290,Submission (reverse triangle armbar),1
-3999,1226,3999,KO (punches),1
-3515,2629,2629,"Decision (unanimous) (30–27, 30–27, 29–28)",3
-562,1477,1477,Submission (triangle choke),2
-2903,4002,4002,TKO (flying knee to the body),1
-1895,83,83,TKO (knee injury),2
-2440,1433,1433,"Decision (split) (29–28, 28–29, 30–27)",3
-744,3961,744,"Decision (unanimous) (30–27, 29–28, 29–28)",3
-1383,1222,1383,Technical Submission (guillotine choke),2
-1753,3282,3282,"Decision (split) (29–28, 28–29, 29–28)",3
-946,1541,946,KO (punches),1
-3246,174,3246,Submission (rear-naked choke),1
-1650,1281,1281,TKO (punches),1
-1006,2605,1006,"Decision (unanimous) (30–27, 29–28, 29–28)",3
-4088,3243,3243,Submission (anaconda choke),1
-2802,2289,2289,Submission (arm-triangle choke),2
-3697,927,3697,TKO (punches),2
-2775,4188,2775,"Decision (split) (29–28, 28–29, 29–28)",3
-1268,839,839,"Decision (unanimous) (30–27, 30–27, 29–28)",3
-630,1166,1166,"Decision (unanimous) (29–28, 29–28, 29–28)",3
-2618,428,2618,TKO (punches),2
-403,2632,403,"Decision (unanimous) (30–27, 30–27, 29–28)",3
-2785,2010,2010,"Decision (unanimous) (30–27, 29–28, 29–28)",3
-2767,2818,2767,"Decision (unanimous) (29–28, 29–28, 30–27)",3
-941,2980,2980,"Decision (unanimous) (30–27, 30–27, 30–27)",3
-1382,2551,2551,Submission (armbar),3
-3269,2059,3269,"Decision (majority) (29–27, 29–27, 28–28)",3
-1419,165,1419,"Decision (unanimous) (50–45, 49–46, 49–46)",5
-2349,3754,2349,TKO (leg kick),2
-3857,4166,3857,TKO (punches and elbows),2
-202,1574,202,"Decision (unanimous) (30–27, 30–27, 30–27)",3
-677,2471,2471,KO (punches),1
-2299,2386,2299,"Decision (unanimous) (30–27, 30–27, 30–27)",3
-453,69,453,Submission (rear-naked choke),1
-1683,3242,3242,"Decision (unanimous) (29–28, 29–28, 29–28)",3
-3993,3773,3773,Submission (armbar),2
-3244,1748,3244,KO (punches and knee),1
-899,4187,4187,"Decision (majority) (48–47, 48–47, 47–47)",5
-3889,471,471,"Decision (unanimous) (29–28, 29–28, 29–28)",3
-256,1831,256,"Decision (unanimous) (30–25, 30–27, 30–27)",3
-4222,3488,4222,Submission (guillotine choke),1
-405,1885,1885,"Decision (unanimous) (29–28, 30–26, 30–26)",3
-612,3395,3395,KO (punches and knee),2
-2799,2070,2070,"Decision (unanimous) (30–27, 30–27, 30–27)",3
-3543,3264,3543,TKO (knee and punches),2
-1844,84,84,Submission (rear-naked choke),1
-639,3710,639,TKO (punches),1
-754,565,565,Submission (rear-naked choke),1
-3628,3362,3362,TKO (doctor stoppage),4
-3229,2737,3229,TKO (punches),2
-1158,74,1158,"Decision (split) (28–29, 29–28, 29–28)",3
-121,3069,3069,TKO (punches),1
-406,2682,2682,"Decision (split) (30–27, 28–29, 29–28)",3
-272,1584,1584,Technical Submission (arm-triangle choke),3
-1746,3311,1746,TKO (punches),1
-1319,748,1319,"Decision (unanimous) (30–27, 29–28, 29–28)",3
-2193,1347,2193,"Decision (unanimous) (30–27, 30–27, 29–28)",3
-4236,2788,2788,"Decision (unanimous) (30–27, 30–27, 29–28)",3
-24,3216,3216,Technical Submission (rear-naked choke),2
-1420,280,280,"Decision (unanimous) (29–28, 29–28, 29–28)",3
-3959,2608,2608,TKO (punches),1
-1132,918,918,Submission (guillotine choke),4
-655,1627,655,Submission (D'Arce choke),1
-3237,2149,3237,"Decision (split) (29–28, 28–29, 29–28)",3
-652,58,58,KO (upkick to the body),3
-811,4041,4041,Submission (rear-naked choke),1
-855,1074,1074,"Decision (unanimous) (30–27, 30–27, 30–27)",3
-3912,95,95,Submission (rear-naked choke),1
-3003,3854,3854,TKO (knee and punches),2
-264,712,264,TKO (punches),2
-998,4149,998,"Decision (unanimous) (30–27, 30–27, 30–26)",3
-3131,2355,3131,"Decision (unanimous) (29–28, 29–28, 29–28)",3
-2047,4087,2047,"Decision (split) (29–28, 28–29, 29–28)",3
-1271,3905,1271,KO (punches),3
-3996,4111,4111,"Decision (unanimous) (30–27, 30–27, 29–28)",3
-1708,490,1708,"Decision (unanimous) (29–28, 29–28, 30–27)",3
-1992,906,1992,KO (punches),3
-1075,1359,1359,"Decision (majority) (29–28, 29–28, 29–29)",3
-1846,4153,4153,"Decision (unanimous) (30–27, 30–27, 29–28)",3
-2274,3711,2274,KO (front kick and punches),1
-2288,1507,1507,"Decision (unanimous) (30–27, 30–27, 29–28)",3
-1151,4250,4250,"Decision (unanimous) (30–27, 30–27, 29–28)",3
-3320,2521,3320,TKO (punches),2
-3084,3771,3084,TKO (punches),1
-2964,1034,1034,Submission (rear-naked choke),2
-1029,3937,1029,KO (head kick),5
-753,3227,753,"Decision (unanimous) (30–27, 30–27, 30–27)",3
-61,1010,1010,"Decision (unanimous) (29–28, 29–28, 30–27)",3
-4168,3059,3059,TKO (elbows),2
-1689,2928,2928,TKO (body kick and punches),1
-3917,3255,3917,"Decision (majority) (29–28, 29–28, 28–28)",3
-1380,3386,1380,"Decision (unanimous) (30–27, 30–27, 30–27)",3
-4158,3334,4158,"Draw (split) (29–27, 27–29, 28–28)",3
-1175,2194,2194,"Decision (unanimous) (29–27, 29–28, 29–28)",3
-46,1153,46,Submission (rear-naked choke),1
-102,2038,102,TKO (punches and elbows),1
-789,3987,3987,KO (head kick),4
-2054,2822,2054,"Decision (majority) (28–28, 29–27, 29–27)",3
-1768,2223,1768,"Decision (unanimous) (30–27, 29–28, 29–28)",3
-684,2648,2648,TKO (punches),3
-536,816,536,TKO (punches),1
-3546,2451,2451,Submission (guillotine choke),3
-1339,1608,1608,"Decision (unanimous) (29–28, 29–28, 29–28)",3
-491,486,491,"Decision (split) (29–28, 28–29, 29–28)",3
-2761,543,2761,"Decision (split) (28–29, 29–28, 30–27)",3
-2823,316,316,TKO (punches),1
-2675,2832,2675,KO (punches),1
-4145,3079,3079,KO (punch),1
-4228,365,365,"Draw (majority) (29–28, 28–28, 28–28)",3
-3387,1610,1610,TKO (punches and elbows),4
-2696,2229,2696,KO (punches),3
-2914,3938,3938,KO (punches),2
-3324,3670,3670,TKO (punches),2
-1371,2431,2431,Submission (rear-naked choke),1
-114,2800,2800,TKO (punches),1
-3414,288,288,KO (head kick),1
-2428,1415,2428,Submission (Von Flue choke),2
-496,1034,496,Submission (armbar),1
-2760,2934,2760,"Decision (unanimous) (50–45, 50–44, 50–43)",5
-1884,2591,2591,TKO (body kick and punches),3
-2917,2144,2917,TKO (punches),1
-2879,2962,2879,Submission (neck crank),1
-3600,150,150,TKO (punches),2
-3467,2597,2597,"Decision (unanimous) (29–28, 29–28, 30–27)",3
-113,939,939,KO (punch to the body),3
-5,2390,5,No Contest (overturned),3
-1971,1283,1971,"Decision (unanimous) (29–28, 29–28, 29–28)",3
-2583,1232,2583,TKO (punches),3
-1944,1032,1032,"Decision (split) (28–29, 29–28, 30–27)",3
-3034,2699,2699,TKO (punches and knees),2
-912,749,749,"Decision (unanimous) (29–28, 29–28, 29–28)",3
-199,370,370,TKO (knee injury),1
-810,1579,1579,"Decision (unanimous) (29–28, 29–28, 30–27)",3
-2093,3012,3012,Submission (rear-naked choke),2
-1467,2010,2010,KO (punches),1
-2400,1345,2400,TKO (spinning back elbow and punches),1
-2785,772,2785,"Decision (unanimous) (30–27, 30–27, 30–27)",3
-1965,1832,1965,"Decision (unanimous) (30–27, 30–27, 30–27)",3
-1479,910,910,"Decision (unanimous) (30–26, 30–26, 30–27)",3
-4153,3268,4153,"Decision (unanimous) (30–26, 30–26, 30–27)",3
-2922,124,2922,TKO (punches),2
-2551,1812,2551,"Decision (unanimous) (30–27, 30–27, 30–27)",3
-1576,2704,1576,"Decision (unanimous) (29–28, 29–28, 29–28)",3
-386,2128,2128,"Decision (unanimous) (30–27, 30–27, 30–27)",3
-819,3540,819,"Decision (unanimous) (29–28, 29–28, 29–27)",3
-3234,2827,3234,TKO (shoulder injury),1
-2121,4075,2121,Submission (guillotine choke),2
-2149,3336,2149,TKO (punches and elbows),2
-503,1846,503,"Decision (majority) (29–28, 29–28, 28–28)",3
-3799,2642,2642,"Decision (unanimous) (30–27, 30–27, 29–28)",3
-3637,2227,3637,KO (punches),2
-3516,3565,3565,Submission (arm-triangle choke),2
-511,74,74,TKO (retirement),2
-1418,3711,3711,"Decision (unanimous) (29–28, 29–28, 29–28)",3
-985,2942,985,"Decision (unanimous) (29–28, 29–28, 30–27)",3
-1173,955,1173,KO (punches),5
-2980,403,403,"Decision (unanimous) (30–27, 30–27, 29–28)",3
-2766,3559,2766,"Decision (unanimous) (30–27, 29–28, 29–28)",3
-3499,3961,3499,TKO (punches),3
-3911,4226,4226,"Decision (unanimous) (29–28, 29–28, 29–28)",3
-1802,2622,2622,"Decision (split) (28–29, 29–28, 29–28)",3
-479,1383,479,KO (punches),1
-607,3501,3501,"Decision (split) (29–28, 28–29, 29–28)",3
-175,2822,2822,Technical Submission (arm-triangle choke),2
-2769,3204,2769,TKO (elbows),3
-2083,1869,1869,"Decision (unanimous) (30–26, 30–27, 30–27)",3
-566,20,20,"Decision (unanimous) (49–46, 49–46, 50–45)",5
-4025,1629,4025,"Decision (unanimous) (50–45, 50–45, 50–45)",5
-2953,3727,2953,KO (punches),1
-253,2079,253,TKO (punches),2
-2775,2625,2625,No Contest (accidental eye poke),2
-3915,3174,3915,Submission (guillotine choke),1
-632,2500,2500,Submission (guillotine choke),2
-1428,2249,2249,"Decision (unanimous) (30–27, 30–27, 30–27)",3
-3804,979,979,"Decision (unanimous) (29–28, 29–28, 29–28)",3
-1486,2626,2626,"Decision (unanimous) (30–27, 30–27, 30–27)",3
-252,1105,252,"Decision (unanimous) (29–28, 29–28, 30–27)",3
-685,3710,3710,Submission (armbar),1
-1268,3897,1268,"Decision (unanimous) (48–47, 48–47, 48–47)",5
-2269,3093,3093,Submission (guillotine choke),2
-289,2886,2886,TKO (punches),2
-2550,1307,2550,Submission (rear-naked choke),1
-2303,2768,2768,"Decision (unanimous) (30–27, 30–26, 30–25)",3
-4006,810,810,"Decision (unanimous) (29–28, 29–28, 29–28)",3
-3924,2692,3924,TKO (punches),1
-2599,2864,2599,"Decision (unanimous) (29–28, 29–28, 29–28)",3
+490,767,490,TKO (doctor stoppage),3
+3754,3075,3754,KO (punch),3
+1882,3546,1882,TKO (body kick and punches),3
+1753,2978,1753,KO (punch),3
+2315,4191,2315,"Decision (split) (28–29, 30–27, 29–28)",3
+3706,3858,3706,"Decision (unanimous) (30–27, 30–27, 30–27)",3
+1802,220,1802,KO (punch),2
+108,1971,108,KO (flying knee and punches),1
+4158,2858,4158,TKO (punches),1
+2167,1793,2167,"Decision (unanimous) (30–27, 30–27, 30–27)",3
+2385,1659,2385,"Decision (unanimous) (29–28, 29–28, 29–28)",3
+1417,3805,1417,"Decision (unanimous) (29–28, 30–27, 30–27)",3
+3242,1976,3242,"Decision (unanimous) (30–27, 30–27, 30–27)",3
+3093,2249,3093,"Decision (unanimous) (48–47, 48–47, 48–47)",5
+1271,4027,1271,"Decision (split) (29–28, 28–29, 29–28)",3
+2531,1411,2531,KO (slam and elbows),3
+659,2054,659,TKO (elbows),3
+3151,3600,3151,TKO (elbows and punches),2
+2229,1385,2229,Technical Submission (anaconda choke),1
+1102,3697,1102,"Decision (unanimous) (29–28, 29–28, 29–28)",3
+288,471,288,"Decision (split) (28–29, 29–28, 29–28)",3
+128,4090,128,TKO (punches),2
+3953,1006,3953,"Decision (unanimous) (29–28, 30–26, 30–27)",3
+653,1433,653,Submission (rear-naked choke),3
+1650,1452,1650,Submission (armbar),1
+2769,486,2769,TKO (punches),1
+4188,1152,4188,"Decision (unanimous) (50–45, 50–45, 50–45)",5
+4187,3167,4187,"Decision (unanimous) (30–27, 30–27, 30–27)",3
+3336,3627,3336,KO (spinning wheel kick),1
+1136,4059,1136,Technical Submission (rear-naked choke),2
+3924,2785,3924,"Decision (unanimous) (30–27, 30–27, 29–28)",3
+4244,922,4244,TKO (elbow and punches),1
+4211,1783,4211,"Decision (unanimous) (30–27, 30–27, 29–28)",3
+3502,1129,3502,KO (head kick),3
+1586,3909,1586,"Decision (split) (29–28, 28–29, 29–28)",3
+4172,2091,4172,KO (punch),3
+2608,2280,2608,"Decision (unanimous) (30–27, 30–27, 30–27)",3
+1817,2516,1817,TKO (spinning back kick and punches),3
+2802,638,2802,"Decision (unanimous) (49–46, 49–46, 49–45)",5
+2719,772,2719,"Decision (unanimous) (30–27, 30–27, 30–27)",3
+165,3553,165,"Decision (unanimous) (29–28, 29–28, 29–28)",3
+3298,2179,3298,"Decision (unanimous) (29–28, 29–28, 29–28)",3
+2419,2349,2419,"Decision (unanimous) (29–28, 29–28, 29–28)",3
+2500,1746,2500,Submission (guillotine choke),1
+3917,932,3917,TKO (doctor stoppage),2
+430,1258,430,KO (punches),1
+1047,1480,1047,KO (punches),3
+2610,1513,2610,"Decision (unanimous) (30–27, 29–28, 29–28)",3
+3045,2269,3045,KO (punch),1
+388,3261,388,"Decision (unanimous) (30–26, 30–27, 30–27)",3
+3216,3016,3216,"Decision (unanimous) (29–27, 29–28, 29–28)",3
+6,3857,6,TKO (knee and punches),1
+1347,2002,1347,"Decision (unanimous) (30–27, 30–27, 29–28)",3
+3087,3467,3087,TKO (punches),1
+365,3678,365,Submission (rear-naked choke),1
+1383,3892,1383,Submission (guillotine choke),1
+2591,46,2591,"Decision (unanimous) (49–46, 50–45, 50–45)",5
+367,2676,367,"Decision (unanimous) (48–47, 48–47, 48–47)",5
+3163,2248,3163,"Decision (split) (29–28, 28–29, 29–28)",3
+1766,816,1766,Submission (brabo choke),3
+3711,272,3711,KO (punches),1
+2300,1319,2300,"Decision (unanimous) (30–27, 29–28, 29–28)",3
+4226,2625,4226,"Decision (unanimous) (30–27, 29–28, 29–28)",3
+1846,1574,1846,Submission (guillotine choke),2
+4228,3516,4228,Submission (arm-triangle choke),2
+3255,2682,3255,"Decision (unanimous) (30–27, 30–27, 30–27)",3
+3523,175,3523,"Decision (split) (28–29, 29–28, 29–28)",3
+1313,148,1313,"Decision (unanimous) (30–27, 30–27, 30–26)",3
+1659,2981,1659,"Decision (split) (30–27, 28–29, 29–28)",3
+3867,1629,3867,KO (punches),3
+655,4111,655,Submission (face crank),1
+150,3095,150,"Decision (unanimous) (29–28, 29–28, 29–28)",3
+2644,1699,2644,"Decision (unanimous) (29–28, 29–28, 29–28)",3
+2275,2980,2275,KO (spinning backfists),2
+198,631,198,TKO (punches),1
+2696,955,2696,TKO (knee injury),1
+3125,2825,3125,"Decision (split) (28–29, 29–28, 29–28)",3
+2274,1144,2274,Submission (arm-triangle choke),3
+2769,264,2769,TKO (knee to the body and punches),1
+281,1684,281,"Decision (unanimous) (30–27, 29–28, 29–28)",3
+2689,3546,2689,"Decision (unanimous) (30–27, 30–27, 30–27)",3
+1114,2092,1114,"Decision (unanimous) (29–28, 29–28, 30–27)",3
+1584,2952,1584,TKO (elbows),5
+1189,2996,1189,"Decision (unanimous) (29–28, 29–28, 29–28)",3
+1812,3745,1812,"Decision (unanimous) (29–28, 29–28, 29–28)",3
+3614,1477,3614,"Decision (unanimous) (30–26, 29–27, 29–27)",3
+1043,3013,1043,"Decision (unanimous) (29–28, 29–28, 29–28)",3
+87,2721,87,"Decision (unanimous) (29–28, 29–28, 29–28)",3
+2375,1894,2375,"Decision (unanimous) (29–28, 29–28, 29–28)",3
+1032,4002,1032,Submission (face crank),3
+3131,2942,3131,"Decision (unanimous) (29–28, 29–28, 29–28)",3
+2355,168,2355,"Decision (unanimous) (30–27, 30–27, 30–27)",3
+2055,902,2055,"Decision (unanimous) (29–28, 29–28, 29–28)",3
+3290,3773,3290,"Decision (split) (47–48, 48–47, 48–47)",5
+2889,3804,2889,"Decision (split) (28–29, 29–28, 29–28)",3
+2737,1375,2737,"Decision (unanimous) (30–27, 30–27, 30–27)",3
+856,1283,856,TKO (elbows and punches),2
+3237,2597,3237,"Decision (split) (28–29, 29–28, 29–28)",3
+3821,3993,3821,TKO (punches),1
+3311,2922,3311,Submission (rear-naked choke),1
+1385,3051,1385,"Decision (unanimous) (30–27, 30–27, 30–27)",3
+3770,3494,3770,TKO (punches),2
+3026,2428,3026,"Decision (split) (29–28, 28–29, 30–27)",3
+1476,171,1476,"Decision (unanimous) (30–27, 30–27, 30–27)",3
+592,3225,592,Technical Submission (rear-naked choke),2
+2953,3282,2953,TKO (punches),4
+2934,2945,2934,"Decision (split) (48–47, 47–48, 48–47)",5
+290,61,290,"Decision (split) (28–29, 29–28, 29–28)",3
+946,1627,946,TKO (corner stoppage),1
+1526,4005,1526,"Decision (unanimous) (30–27, 30–27, 29–28)",3
+490,3845,490,KO (punch),3
+2223,3236,2223,"Decision (split) (29–28, 28–29, 29–28)",3
+1583,1675,1583,"Decision (split) (27–30, 29–28, 29–28)",3
+97,3034,97,"Decision (unanimous) (30–27, 30–27, 30–27)",3
+3658,3321,3658,Submission (guillotine choke),1
+2946,1085,2946,"Decision (unanimous) (29–28, 29–28, 30–27)",3
+2418,2440,2418,Submission (neck crank),1
+2549,3320,2549,TKO (doctor stoppage),2
+1708,84,1708,"Decision (unanimous) (29–28, 29–28, 29–28)",3
+1359,453,1359,"Decision (split) (29–28, 28–29, 29–28)",3
+288,1847,288,TKO (punches),2
+643,2521,643,KO (punch),2
+4250,1225,4250,KO (knee),3
+811,1076,811,"Decision (split) (28–29, 29–28, 29–28)",3
+1965,3214,1965,"Decision (unanimous) (30–27, 29–28, 29–28)",3
+2060,2581,2060,"Decision (unanimous) (30–27, 30–27, 30–27)",3
+257,102,257,"Decision (unanimous) (29–28, 29–28, 29–28)",3
+623,739,623,"Decision (split) (28–29, 29–28, 29–28)",3
+999,2796,999,Technical Submission (guillotine choke),1
+1010,2775,1010,"Decision (unanimous) (49–46, 48–47, 48–47)",5
+3500,1419,3500,"Decision (unanimous) (50–45, 50–45, 50–45)",5
+2197,2827,2197,"Decision (unanimous) (30–26, 30–27, 30–27)",3
+3164,4236,3164,"Decision (split) (29–28, 28–29, 29–28)",3
+3239,2832,3239,"Decision (unanimous) (29–28, 29–27, 29–27)",3
+998,58,998,"Decision (unanimous) (30–27, 30–27, 30–27)",3
+234,3877,234,TKO (punches),1
+3653,1768,3653,Technical Submission (rear-naked choke),1
+3953,635,3953,"Decision (unanimous) (29–28, 29–28, 29–28)",3
+3271,158,3271,"Decision (unanimous) (29–28, 29–28, 29–28)",3
+428,509,428,"Decision (unanimous) (50–45, 50–45, 49–46)",5
+3550,138,3550,"Decision (unanimous) (30–27, 30–27, 30–27)",3
+1281,2704,1281,TKO (elbows and punches),1
+1006,3442,1006,Submission (ninja choke),2
+190,2929,190,"Decision (unanimous) (30–27, 29–28, 29–28)",3
+2859,3263,2859,TKO (doctor stoppage),2
+995,2324,995,Submission (arm-triangle choke),2
+2166,962,2166,"Decision (unanimous) (30–27, 29–28, 29–28)",3
+3396,4202,3396,"Decision (unanimous) (30–26, 30–26, 30–27)",3
+125,893,125,Submission (armbar),1
+2979,493,2979,"Decision (unanimous) (30–27, 30–27, 30–27)",3
+403,566,403,"Decision (unanimous) (49–45, 49–45, 48–46)",5
+3167,1608,3167,"Decision (unanimous) (29–28, 29–28, 29–28)",3
+2185,3945,2185,TKO (elbows),2
+3399,2786,3399,KO (punch),2
+2583,2269,2583,TKO (punches),1
+2451,3486,2451,Submission (arm-triangle choke),2
+2335,528,2335,"Decision (split) (28–29, 30–27, 29–28)",3
+3135,2448,3135,"Decision (unanimous) (30–27, 30–27, 30–27)",3
+405,2179,405,"Decision (split) (28–29, 29–28, 30–27)",3
+623,2763,623,"Decision (split) (27–30, 29–28, 29–28)",3
+4059,2128,4059,KO (punches),1
+979,20,979,Submission (face crank),4
+1884,1071,1884,TKO (punches),1
+1649,1268,1649,"Decision (split) (28–29, 29–28, 29–28)",3
+3291,3905,3291,"Decision (split) (29–28, 27–30, 30–27)",3
+3045,2149,3045,KO (punches),2
+4043,3770,4043,Submission (heel hook),1
+3107,794,3107,"Decision (split) (29–28, 28–29, 29–28)",3
+2778,3397,2778,"Decision (unanimous) (30–27, 30–27, 30–26)",3
+1776,511,1776,TKO (retirement),3
+2747,3152,2747,"Decision (unanimous) (30–27, 30–27, 29–28)",3
+3627,1336,3627,"Decision (unanimous) (30–27, 30–26, 29–28)",3
+31,2722,31,Technical Submission (guillotine choke),1
+3670,3917,3670,Submission (armbar),1
+2319,1746,2319,"Decision (unanimous) (30–25, 30–25, 30–26)",3
+258,3992,258,"Decision (split) (29–28, 27–30, 29–28)",3
+1471,2091,1471,"Decision (unanimous) (29–28, 29–28, 29–28)",3
+3391,639,3391,"Decision (unanimous) (30–27, 29–28, 29–28)",3
+1904,1436,1904,Submission (triangle choke),2
+3269,1932,3269,"Decision (unanimous) (30–27, 30–27, 30–27)",3
+932,4131,932,"Decision (unanimous) (30–27, 29–28, 29–28)",3
+4228,1075,4228,Submission (rear-naked choke),1
+2222,64,2222,"Decision (unanimous) (30–27, 30–27, 30–27)",3
+2768,3362,2768,"Decision (unanimous) (50–45, 49–46, 49–46)",5
+2275,2800,2275,"Decision (unanimous) (30–27, 30–27, 29–28)",3
+1152,3987,1152,"Decision (unanimous) (29–28, 29–28, 30–27)",3
+653,1132,653,Submission (rear-naked choke),1
+899,1339,899,"Decision (unanimous) (29–28, 29–28, 29–28)",3
+108,442,108,TKO (knees and punches),3
+2648,2471,2648,KO (punches),2
+1137,4177,1137,TKO (punches),1
+1297,2390,1297,"Decision (unanimous) (30–27, 30–27, 30–27)",3
+2028,4032,2028,"Decision (unanimous) (29–28, 29–28, 29–28)",3
+1683,986,1683,"Decision (split) (27–30, 29–28, 29–28)",3
+1576,299,1576,"Decision (unanimous) (30–27, 30–27, 29–28)",3
+997,3854,997,"Decision (unanimous) (29–28, 29–28, 30–27)",3
+2618,1029,2618,"Decision (unanimous) (48–47, 48–47, 49–46)",5
+199,370,199,KO (punches),1
+3012,1426,3012,Technical Submission (triangle choke),1
+3229,1000,3229,"Decision (unanimous) (30–27, 30–27, 30–27)",3
+83,654,83,"Decision (unanimous) (29–28, 29–28, 29–28)",3
+4153,3013,4153,"Decision (unanimous) (29–27, 29–27, 29–28)",3
+436,2400,436,"Decision (unanimous) (30–27, 30–27, 29–28)",3
+1477,2210,1477,"Decision (unanimous) (30–27, 30–27, 29–28)",3
+2551,1882,2551,"Decision (unanimous) (29–28, 29–28, 30–27)",3
+1047,2900,1047,"Decision (unanimous) (29–28, 30–27, 30–27)",3
+498,3039,498,Submission (arm-triangle choke),3
+2913,781,2913,Submission (arm-triangle choke),1
+2897,486,2897,KO (punches),1
+248,168,248,"Decision (split) (28–29, 29–28, 30–27)",3
+1756,2121,1756,Submission (armbar),2
+1281,660,1281,TKO (punches),1
+1635,2008,1635,"Decision (unanimous) (29–28, 29–28, 29–28)",3
+3546,1006,3546,TKO (punches),2
+659,74,659,TKO (submission to punch),2
+122,2111,122,TKO (punches),1
+1313,1909,1313,Submission (arm-triangle choke),1
+2385,254,2385,"Decision (unanimous) (29–28, 30–27, 30–27)",3
+2788,3088,2788,"Decision (unanimous) (29–28, 29–28, 30–27)",3
+590,3059,590,"Decision (unanimous) (29–28, 29–28, 30–27)",3
+2975,3938,2975,"Decision (unanimous) (30–27, 30–27, 30–27)",3
+2676,745,2676,"Decision (unanimous) (49–46, 49–46, 48–47)",5
+3336,3029,3336,"Decision (split) (28–29, 29–28, 29–28)",3
+3532,939,3532,TKO (doctor stoppage),3
+393,2194,393,"Decision (unanimous) (30–27, 30–27, 29–28)",3
+1074,3243,1074,Submission (guillotine choke),1
+3123,479,3123,No Contest (illegal elbows),1
+1812,3953,1812,KO (punches),3
+1766,1969,1766,"Decision (unanimous) (30–27, 30–27, 30–27)",3
+1750,365,1750,KO (punch),1
+3397,24,3397,Submission (rear-naked choke),1
+2979,1222,2979,"Decision (unanimous) (30–27, 30–27, 30–27)",3
+1039,1182,1039,Submission (arm-triangle choke),2
+2953,3054,2953,TKO (head kick and punches),2
+2197,1699,2197,"Decision (unanimous) (29–28, 29–28, 29–28)",3
+946,3600,946,"Decision (unanimous) (30–27, 29–28, 29–28)",3
+652,496,652,TKO (doctor stoppage),2
+2249,2861,2249,"Decision (unanimous) (29–28, 29–28, 29–28)",3
+3069,272,3069,KO (punches),1
+1158,3754,1158,"Decision (split) (28–29, 29–28, 29–28)",3
+3532,1846,3532,KO (punch),2
+3783,1304,3783,KO (punches),1
+3216,4075,3216,"Decision (unanimous) (30–27, 30–27, 30–26)",3
+491,174,491,"Decision (split) (29–28, 28–29, 30–27)",3
+3898,1586,3898,"Decision (unanimous) (29–28, 29–28, 29–28)",3
+2809,3565,2809,"Decision (unanimous) (30–27, 30–27, 29–28)",3
+4111,79,4111,KO (punches),1
+4027,2917,4027,"Decision (unanimous) (30–27, 30–27, 29–28)",3
+1290,3237,1290,"Decision (unanimous) (29–28, 30–27, 30–27)",3
+2275,3892,2275,TKO (knee and punches),3
+2785,4041,2785,KO (punch),1
+1507,1380,1507,"Decision (split) (28–29, 29–28, 29–28)",3
+2167,2661,2167,Submission (rear-naked choke),3
+1114,819,1114,"Decision (split) (29–28, 28–29, 29–28)",3
+1252,1881,1252,"Decision (unanimous) (30–27, 30–27, 30–27)",3
+1249,3163,1249,"Decision (majority) (29–28, 29–28, 28–28)",3
+2113,4172,2113,"Decision (split) (28–29, 29–28, 29–28)",3
+3773,2962,3773,TKO (knee injury),2
+1793,3559,1793,"Decision (unanimous) (30–27, 30–27, 29–28)",3
+96,791,96,"Decision (unanimous) (29–28, 29–28, 29–28)",3
+1601,175,1601,Submission (rear-naked choke),3
+87,1811,87,"Decision (unanimous) (30–27, 30–27, 30–27)",3
+1232,3079,1232,"Decision (split) (29–28, 28–29, 29–28)",3
+2303,1177,2303,"Decision (unanimous) (30–27, 30–27, 29–28)",3
+1136,1854,1136,"Decision (split) (29–28, 28–29, 29–28)",3
+4138,3403,4138,Submission (triangle armbar),1
+756,2758,756,Submission (face crank),3
+1976,3026,1976,"Decision (unanimous) (29–28, 29–28, 29–28)",3
+1708,566,1708,TKO (punches),4
+3151,1753,3151,KO (punches),1
+3271,3911,3271,Submission (rear-naked choke),2
+1144,3711,1144,KO (spinning back elbow),1
+3135,2327,3135,TKO (body kick and punches),1
+3637,229,3637,"Decision (unanimous) (30–25, 30–25, 30–27)",3
+1965,2550,1965,"Decision (unanimous) (30–27, 30–27, 30–27)",3
+3045,3087,3045,KO (knee to the body),1
+1894,526,1894,"Decision (unanimous) (30–26, 30–27, 30–27)",3
+864,2110,864,"Decision (split) (28–29, 29–28, 29–28)",3
+2315,612,2315,"Decision (unanimous) (30–27, 30–27, 30–27)",3
+1347,2610,1347,"Decision (split) (28–29, 30–27, 30–27)",3
+2060,3678,2060,"Decision (unanimous) (30–27, 30–27, 30–27)",3
+3862,961,3862,"Decision (split) (30–27, 27–30, 29–28)",3
+2289,3023,2289,Submission (brabo choke),5
+3727,753,3727,"Decision (split) (46–49, 50–45, 49–46)",5
+1627,2800,1627,Technical Submission (armbar),1
+3051,2597,3051,"Decision (unanimous) (29–28, 29–28, 29–28)",3
+471,4229,471,"Decision (unanimous) (29–28, 29–28, 29–28)",3
+1992,97,1992,"Decision (split) (29–28, 28–29, 30–27)",3
+95,3255,95,Submission (rear-naked choke),1
+856,3623,856,"Decision (unanimous) (29–28, 30–27, 30–27)",3
+2379,3286,2379,"Decision (unanimous) (29–28, 29–28, 30–27)",3
+1480,1258,1480,"Decision (unanimous) (30–27, 30–27, 29–28)",3
+2964,1032,2964,"Decision (unanimous) (30–27, 29–28, 29–28)",3
+2166,3113,2166,"Decision (split) (30–27, 28–29, 30–27)",3
+2644,255,2644,"Decision (unanimous) (49–46, 50–45, 50–45)",5
+4130,1525,4130,KO (punch),1
+1385,430,1385,"Decision (unanimous) (30–27, 30–27, 30–27)",3
+4191,3343,4191,TKO (punches),1
+1608,3016,1608,Submission (guillotine choke),2
+2747,2353,2747,TKO (knee to the body and punches),1
+3757,3858,3757,Submission (face crank),1
+1292,4002,1292,TKO (punch to the body),3
+2274,112,2274,"Decision (unanimous) (30–26, 30–26, 30–26)",3
+589,3242,589,DQ (headbutts),2
+45,3230,45,"Decision (unanimous) (30–27, 30–27, 29–28)",3
+893,985,893,"Decision (split) (28–29, 29–28, 29–28)",3
+2144,2682,2144,TKO (punches),3
+490,3305,490,"Decision (unanimous) (30–27, 30–26, 29–27)",3
+3924,2471,3924,KO (punches),1
+1142,3125,1142,TKO (punches),3
+4158,534,4158,"Decision (unanimous) (29–28, 29–28, 30–27)",3
+744,902,744,"Decision (unanimous) (30–26, 30–27, 30–27)",3
+1650,405,1650,Submission (brabo choke),2
+3164,2431,3164,KO (head kick),1
+3167,2946,3167,"Decision (split) (28–29, 29–28, 29–28)",3
+4074,1342,4074,"Decision (unanimous) (30–27, 30–27, 29–28)",3
+1812,1477,1812,"Decision (unanimous) (29–28, 29–28, 29–28)",3
+1513,62,1513,"Decision (unanimous) (29–28, 29–28, 29–28)",3
+2879,1071,2879,"Decision (unanimous) (48–47, 48–47, 49–46)",5
+61,2349,61,"Decision (unanimous) (30–27, 30–27, 30–27)",3
+3600,2978,3600,Submission (guillotine choke),1
+2952,3034,2952,Submission (guillotine choke),1
+403,772,403,KO (punches),2
+453,3516,453,TKO (doctor stoppage),2
+2223,2002,2223,"Decision (unanimous) (30–27, 30–27, 30–27)",3
+2825,442,2825,"Decision (unanimous) (29–27, 29–27, 29–27)",3
+1971,3543,1971,"Decision (unanimous) (29–28, 29–28, 29–28)",3
+3298,2622,3298,TKO (punches),1
+254,1887,254,"Decision (unanimous) (29–28, 29–28, 29–28)",3
+394,3001,394,"Decision (unanimous) (30–27, 30–27, 30–27)",3
+755,401,755,TKO (punches),2
+2962,2721,2962,KO (punch),2
+1464,3658,1464,TKO (punches),2
+3553,816,3553,"Decision (unanimous) (30–27, 29–28, 29–28)",3
+932,2055,932,KO (punches),2
+2822,2922,2822,"Decision (unanimous) (29–28, 29–28, 29–28)",3
+2445,2440,2445,TKO (punches),1
+1574,4176,1574,TKO (head kick and punches),3
+1675,1151,1675,"Decision (unanimous) (29–28, 29–28, 29–28)",3
+2390,2248,2390,"Decision (unanimous) (29–28, 29–28, 29–28)",3
+3653,2310,3653,"Decision (unanimous) (30–27, 30–27, 30–27)",3
+2859,2179,2859,Submission (rear-naked choke),1
+2981,2151,2981,Submission (arm-triangle choke),3
+2280,316,2280,"Decision (split) (28–29, 29–28, 29–28)",3
+2953,1610,2953,KO (punches),1
+4243,4187,4243,"Decision (unanimous) (49–45, 49–45, 49–45)",5
+1629,1250,1629,KO (punch),5
+3897,2802,3897,"Decision (split) (28–29, 29–28, 29–28)",3
+2719,479,2719,Submission (rear-naked choke),2
+3054,3095,3054,TKO (punches),2
+3697,1895,3697,"Decision (unanimous) (30–27, 30–27, 30–27)",3
+1526,1632,1526,Submission (rear-naked choke),2
+2197,4222,2197,TKO (punches),1
+2549,3915,2549,TKO (elbows and punches),2
+138,3236,138,"Decision (split) (28–29, 29–28, 29–28)",3
+1426,2500,1426,"Decision (unanimous) (29–27, 30–25, 29–26)",3
+1152,1275,1152,Submission (rear-naked choke),2
+84,810,84,"Decision (split) (47–48, 48–47, 49–46)",5
+1746,1583,1746,"Decision (split) (27–30, 29–28, 29–28)",3
+2319,643,2319,"Decision (split) (29–28, 27–30, 29–28)",3
+234,1307,234,KO (head kick),1
+554,2929,554,"Decision (unanimous) (30–27, 30–27, 30–27)",3
+2597,2418,2597,"Decision (unanimous) (29–28, 29–28, 29–28)",3
+486,4043,486,"Decision (unanimous) (29–28, 29–28, 29–28)",3
+998,873,998,"Decision (unanimous) (29–28, 29–28, 29–28)",3
+1684,1116,1684,"Decision (unanimous) (30–27, 29–28, 29–28)",3
+2375,171,2375,Submission (guillotine choke),2
+97,493,97,TKO (punches),2
+739,2624,739,TKO (knee to the body and head kicks),2
+1166,367,1166,"Decision (unanimous) (50–45, 50–45, 50–45)",5
+490,2229,490,TKO (punches),2
+4090,3546,4090,"Technical Decision (unanimous) (30–27, 30–27, 30–27)",3
+3305,997,3305,TKO (punches),1
+2704,74,2704,TKO (punches),1
+2737,2427,2737,"Decision (split) (28–29, 30–27, 30–27)",3
+2054,1058,2054,KO (punches),1
+1756,1339,1756,"Decision (unanimous) (29–28, 29–28, 30–27)",3
+166,511,166,TKO (punches),2
+528,2380,528,TKO (punches),3
+198,3912,198,TKO (punch),3
+2299,2979,2299,TKO (soccer kick to the body),2
+2210,2853,2210,"Decision (unanimous) (30–27, 30–27, 30–26)",3
+2676,3159,2676,"Decision (unanimous) (49–46, 49–46, 48–47)",5
+4131,3769,4131,"Decision (unanimous) (30–27, 29–28, 29–28)",3
+3486,941,3486,KO (punches),1
+3783,3308,3783,TKO (punches),2
+4228,3075,4228,Submission (rear-naked choke),2
+2858,2867,2858,Submission (brabo choke),1
+2788,1635,2788,"Decision (unanimous) (30–27, 30–27, 30–27)",3
+1074,3107,1074,Submission (guillotine choke),1
+1793,1313,1793,"Decision (unanimous) (30–27, 30–27, 30–27)",3
+1075,2717,1075,"Decision (unanimous) (30–27, 30–27, 30–27)",3
+2166,3482,2166,DQ (biting),2
+2897,3938,2897,"Decision (unanimous) (29–28, 29–28, 29–28)",3
+3917,3905,3917,Technical Submission (rear-naked choke),1
+288,2194,288,No Contest (accidental eye poke),2
+3321,2769,3321,"Decision (split) (29–28, 28–29, 29–28)",3
+3243,995,3243,"Decision (split) (27–28, 28–27, 28–27)",3
+652,1932,652,Submission (rear-naked choke),1
+2451,253,2451,Technical Submission (face crank),2
+854,2142,854,Submission (arm-triangle choke),2
+639,2763,639,"Decision (unanimous) (29–28, 29–28, 29–28)",3
+1157,2832,1157,Submission (rear-naked choke),1
+3558,794,3558,"Decision (split) (29–28, 28–29, 29–28)",3
+125,2428,125,Submission (armbar),1
+2550,3103,2550,TKO (leg kicks),3
+148,1436,148,"Decision (unanimous) (30–27, 29–28, 29–28)",3
+2775,3987,2775,"Decision (unanimous) (50–45, 50–45, 50–44)",5
+3023,3320,3023,KO (punches),2
+2861,1627,2861,"Decision (unanimous) (29–28, 29–28, 29–28)",3
+887,509,887,KO (knee and elbows),3
+4188,3628,4188,"Decision (unanimous) (29–28, 29–28, 29–28)",3
+370,95,370,KO (punches),2
+252,630,252,"Decision (unanimous) (30–27, 30–27, 29–28)",3
+1268,955,1268,"Decision (unanimous) (29–28, 29–28, 30–27)",3
+2996,2625,2996,"Decision (unanimous) (30–27, 30–27, 30–27)",3
+2175,811,2175,"Decision (unanimous) (29–28, 29–28, 29–28)",3
+2952,2800,2952,Technical Submission (rear-naked choke),1
+902,2886,902,TKO (punches),1
+87,3993,87,"Decision (unanimous) (30–27, 30–27, 30–27)",3
+4152,2598,4152,"Decision (split) (28–29, 29–28, 29–28)",3
+3291,1297,3291,TKO (retirement),4
+2978,2928,2978,"Decision (unanimous) (30–27, 30–27, 29–28)",3
+2551,2962,2551,"Decision (unanimous) (29–28, 29–28, 29–28)",3
+2768,88,2768,"Decision (unanimous) (30–25, 30–26, 30–26)",3
+1071,3442,1071,KO (punch),2
+128,3003,128,"Decision (unanimous) (29–27, 29–28, 29–28)",3
+2809,3634,2809,KO (flying knee),3
+4226,280,4226,"Decision (unanimous) (29–28, 29–28, 29–28)",3
+1000,3162,1000,TKO (elbows and punches),2
+1965,803,1965,TKO (front kick to the body and punches),1
+3088,41,3088,KO (punches),3
+3290,2591,3290,"Decision (split) (48–47, 46–49, 48–47)",5
+2827,3234,2827,Submission (arm-triangle choke),3
+4236,3041,4236,"Decision (unanimous) (29–28, 29–28, 30–27)",3
+1768,1683,1768,"Decision (unanimous) (30–27, 30–27, 30–27)",3
+3877,999,3877,Submission (rear-naked choke),1
+256,3084,256,Submission (rear-naked choke),3
+31,2468,31,"Decision (split) (29–28, 28–29, 29–28)",3
+635,2038,635,Submission (triangle choke),1
+4250,3060,4250,"Decision (split) (28–29, 30–27, 29–28)",3
+3239,390,3239,Submission (rear-naked choke),2
+962,102,962,"Decision (split) (27–30, 29–28, 29–28)",3
+2661,3554,2661,TKO (leg injury),1
+3867,4025,3867,KO (punch),2
+4111,753,4111,"Decision (unanimous) (29–28, 29–28, 30–27)",3
+2249,2696,2249,"Decision (split) (30–27, 28–29, 30–27)",3
+1010,627,1010,"Decision (unanimous) (29–28, 29–28, 29–28)",3
+1584,1992,1584,Submission (rear-naked choke),2
+2121,899,2121,"Decision (unanimous) (29–28, 29–28, 29–28)",3
+3246,3770,3246,TKO (leg kick and punches),2
+2670,3988,2670,"Decision (unanimous) (30–27, 30–27, 30–27)",3
+4244,3163,4244,KO (punches),1
+258,3079,258,TKO (punches),3
+1047,4154,1047,"Decision (unanimous) (30–27, 30–27, 29–28)",3
+2385,2110,2385,"Decision (unanimous) (30–27, 30–27, 29–28)",3
+1579,3069,1579,"Decision (unanimous) (48–47, 48–47, 48–47)",5
+1699,1158,1699,KO (punches),1
+3034,485,3034,"Decision (unanimous) (30–27, 30–27, 29–28)",3
+3229,3804,3229,TKO (punches),3
+1802,1182,1802,"Decision (unanimous) (30–27, 30–27, 30–27)",3
+4006,2980,4006,Submission (arm-triangle choke),1
+3045,1319,3045,KO (punch),2
+2796,791,2796,"Decision (split) (28–29, 29–28, 29–28)",3
+2193,436,2193,"Decision (unanimous) (29–28, 29–28, 29–28)",3
+3039,684,3039,"Decision (unanimous) (30–27, 30–27, 30–27)",3
+1433,4094,1433,"Decision (split) (29–28, 28–29, 29–28)",3
+1464,2914,1464,KO (punches),1
+122,1284,122,TKO (punches),2
+2315,158,2315,No Contest (accidental groin kick),2
+1708,946,1708,"Decision (majority) (49–44, 47–47, 48–46)",5
+2549,939,2549,"Decision (unanimous) (29–28, 29–28, 29–28)",3
+471,3336,471,KO (punches),1
+3550,165,3550,"Decision (unanimous) (29–28, 29–28, 29–28)",3
+1930,2632,1930,No Contest (accidental eye poke),1
+3087,3933,3087,TKO (punches),1
+2400,304,2400,Submission (armbar),1
+1812,2292,1812,"Decision (unanimous) (29–28, 29–28, 29–28)",3
+1385,3244,1385,TKO (punches),1
+2111,347,2111,"Decision (unanimous) (30–27, 30–27, 30–27)",3
+590,3710,590,TKO (punches),3
+2444,3082,2444,"Decision (unanimous) (29–28, 29–28, 29–28)",3
+3021,2975,3021,"Decision (unanimous) (29–28, 29–28, 30–27)",3
+979,3727,979,"Decision (split) (47–48, 48–47, 48–47)",5
+2945,496,2945,"Decision (unanimous) (49–46, 49–46, 49–45)",5
+2269,2300,2269,TKO (punches),3
+810,272,810,"Decision (split) (30–27, 28–29, 30–27)",3
+1102,83,1102,"Decision (unanimous) (29–28, 29–28, 29–28)",3
+175,1894,175,"Decision (unanimous) (29–28, 29–28, 29–28)",3
+4158,1846,4158,"Decision (split) (28–29, 29–28, 29–28)",3
+3805,3523,3805,"Decision (split) (28–29, 29–28, 29–28)",3
+3216,3999,3216,TKO (punches),2
+2913,2047,2913,Submission (rear-naked choke),1
+1766,536,1766,Submission (anaconda choke),3
+1177,1382,1177,Submission (arm-triangle choke),2
+150,4041,150,KO (punches),2
+2500,316,2500,Submission (face crank),3
+290,3565,290,"Decision (unanimous) (30–27, 30–27, 29–28)",3
+1144,1541,1144,KO (punches),1
+744,174,744,"Decision (unanimous) (29–28, 29–28, 29–28)",3
+2900,3467,2900,"Decision (unanimous) (30–27, 30–27, 30–27)",3
+2419,388,2419,TKO (spinning wheel kick and punches),2
+281,2060,281,"Decision (unanimous) (30–27, 30–27, 30–27)",3
+3532,4138,3532,TKO (punches),1
+2608,2747,2608,TKO (punches),1
+3953,502,3953,TKO (punches),2
 1006,527,1006,TKO (punches),1
 1909,290,290,Submission (rear-naked choke),1
 1226,893,893,"Decision (split) (28–29, 29–28, 30–27)",3
@@ -5252,3 +5241,27 @@
 1433,653,653,Submission (rear-naked choke),3
 1452,1650,1650,Submission (armbar),1
 2769,486,2769,TKO (punches),1
+490,767,490,TKO (doctor stoppage),3
+3754,3075,3754,KO (punch),3
+1882,3546,1882,TKO (body kick and punches),3
+1753,2978,1753,KO (punch),3
+2315,4191,2315,"Decision (split) (28–29, 30–27, 29–28)",3
+3706,3858,3706,"Decision (unanimous) (30–27, 30–27, 30–27)",3
+1802,220,1802,KO (punch),2
+108,1971,108,KO (flying knee and punches),1
+4158,2858,4158,TKO (punches),1
+2167,1793,2167,"Decision (unanimous) (30–27, 30–27, 30–27)",3
+2385,1659,2385,"Decision (unanimous) (29–28, 29–28, 29–28)",3
+1417,3805,1417,"Decision (unanimous) (29–28, 30–27, 30–27)",3
+3242,1976,3242,"Decision (unanimous) (30–27, 30–27, 30–27)",3
+1882,3546,1882,TKO (body kick and punches),3
+1753,2978,1753,KO (punch),3
+2315,4191,2315,"Decision (split) (28–29, 30–27, 29–28)",3
+3706,3858,3706,"Decision (unanimous) (30–27, 30–27, 30–27)",3
+1802,220,1802,KO (punch),2
+108,1971,108,KO (flying knee and punches),1
+4158,2858,4158,TKO (punches),1
+2167,1793,2167,"Decision (unanimous) (30–27, 30–27, 30–27)",3
+2385,1659,2385,"Decision (unanimous) (29–28, 29–28, 29–28)",3
+1417,3805,1417,"Decision (unanimous) (29–28, 30–27, 30–27)",3
+3242,1976,3242,"Decision (unanimous) (30–27, 30–27, 30–27)",3
