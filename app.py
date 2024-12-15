@@ -321,23 +321,16 @@ def block_malicious_paths():
     blocked_paths = ["/xmlrpc.php", "/admin.php", "/pegi.php"]
     if request.path in blocked_paths:
         return abort(403)  # Forbidden
-    
+        
 @app.route('/fightnight')
 def fightnight():
     fights = [
-        {"fighter1": "Colby Covington", "fighter2": "Joaquin Buckley"},
-        {"fighter1": "Cub Swanson", "fighter2": "Billy Quarantillo"},
-        {"fighter1": "Vitor Petrino", "fighter2": "Dustin Jacoby"},
-        {"fighter1": "Adrian Yanez", "fighter2": "Daniel Marcos"},
-        {"fighter1": "Manel Kape", "fighter2": "Bruno Silva"},
-        {"fighter1": "Navajo Stirling", "fighter2": "Tuco Tokkos"},
-        {"fighter1": "Michael Johnson", "fighter2": "Ottman Azaitar"},
-        {"fighter1": "Joel Alvarez", "fighter2": "Drakkar Klose"},        
-        {"fighter1": "Sean Woodson", "fighter2": "Fernando Padilla"},
-        {"fighter1": "Miles Johns", "fighter2": "Felipe Lima"},
-        {"fighter1": "Miranda Maverick", "fighter2": "Jamey-Lyn Horth"},
-        {"fighter1": "Davey Grant", "fighter2": "Ramon Taveras"},
-        {"fighter1": "Josefine Knutsson", "fighter2": "Piera Rodriguez"},
+        {"fighter1": "Mackenzie Dern", "fighter2": "Amanda Ribas"},
+        {"fighter1": "Alex Pereira", "fighter2": "Jon Jones"},
+        {"fighter1": "Alex Pereira", "fighter2": "Tom Aspinall"},
+        {"fighter1": "Kayla Harrison", "fighter2": "Julianna Pena"},
+        {"fighter1": "Khamzat Chimaev", "fighter2": "Dricus Du Plessis"},
+        {"fighter1": "Khamzat Chimaev", "fighter2": "Sean Strickland"},
         
    
         
