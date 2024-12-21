@@ -326,11 +326,19 @@ def block_malicious_paths():
 def fightnight():
     fights = [
         {"fighter1": "Mackenzie Dern", "fighter2": "Amanda Ribas"},
-        {"fighter1": "Alex Pereira", "fighter2": "Jon Jones"},
-        {"fighter1": "Alex Pereira", "fighter2": "Tom Aspinall"},
-        {"fighter1": "Kayla Harrison", "fighter2": "Julianna Pena"},
-        {"fighter1": "Khamzat Chimaev", "fighter2": "Dricus Du Plessis"},
-        {"fighter1": "Khamzat Chimaev", "fighter2": "Sean Strickland"},
+        {"fighter1": "Chris Curtis", "fighter2": "Roman Kopylov"},
+        {"fighter1": "Cesar Almeida", "fighter2": " Abdul Razak Alhassan"},
+        {"fighter1": "Austin Bashi", "fighter2": "Christian Rodriguez"},
+        {"fighter1": "Carlston Harris", "fighter2": "Santiago Ponzinibbio"},
+        {"fighter1": "Uros Medic", "fighter2": "Punahele Soriano"},
+        {"fighter1": "Ihor Potieria", "fighter2": "Marco Tulio"},
+        {"fighter1": "Trey Ogden", "fighter2": "Thiago Moises"},
+        {"fighter1": "Bruno Lopes", "fighter2": "Magomed Gadzhiyasulov"},
+        {"fighter1": "Felipe Bunes", "fighter2": "Jose Johnson"},
+        {"fighter1": "Yanal Ashmouz", "fighter2": "Nurullo Aliev"},
+        {"fighter1": "Ernesta Kareckaite", "fighter2": "Nicolle Caliari"},
+        {"fighter1": "Preston Parsons", "fighter2": "Andreas Gustafsson"},
+        {"fighter1": "Fatima Kline", "fighter2": "Viktoriia Dudakova"},
         
    
         
