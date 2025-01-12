@@ -325,20 +325,20 @@ def block_malicious_paths():
 @app.route('/fightnight')
 def fightnight():
     fights = [
-        {"fighter1": "Mackenzie Dern", "fighter2": "Amanda Ribas"},
-        {"fighter1": "Chris Curtis", "fighter2": "Roman Kopylov"},
-        {"fighter1": "Cesar Almeida", "fighter2": " Abdul Razak Alhassan"},
-        {"fighter1": "Austin Bashi", "fighter2": "Christian Rodriguez"},
-        {"fighter1": "Carlston Harris", "fighter2": "Santiago Ponzinibbio"},
-        {"fighter1": "Uros Medic", "fighter2": "Punahele Soriano"},
-        {"fighter1": "Ihor Potieria", "fighter2": "Marco Tulio"},
-        {"fighter1": "Trey Ogden", "fighter2": "Thiago Moises"},
-        {"fighter1": "Bruno Lopes", "fighter2": "Magomed Gadzhiyasulov"},
-        {"fighter1": "Felipe Bunes", "fighter2": "Jose Johnson"},
-        {"fighter1": "Yanal Ashmouz", "fighter2": "Nurullo Aliev"},
-        {"fighter1": "Ernesta Kareckaite", "fighter2": "Nicolle Caliari"},
-        {"fighter1": "Preston Parsons", "fighter2": "Andreas Gustafsson"},
-        {"fighter1": "Fatima Kline", "fighter2": "Viktoriia Dudakova"},
+        {"fighter1": "Islam Makhachev", "fighter2": "Arman Tsarukyan"},
+        {"fighter1": "Merab Dvalishvili", "fighter2": "Umar Nurmagomedov"},
+        {"fighter1": "Jiri Prochazka", "fighter2": " Jamahal Hill"},
+        {"fighter1": "Beneil Dariush", "fighter2": "Renato Moicano"},
+        {"fighter1": "Kevin Holland", "fighter2": "Reinier de Ridder"},
+        {"fighter1": "Johnny Walker", "fighter2": "Bogdan Guskov"},
+        {"fighter1": "Payton Talbott", "fighter2": "Raoni Barcelos"},
+        {"fighter1": "Jailton Almeida", "fighter2": "Serghei Spivac"},
+        {"fighter1": "Zach Reese", "fighter2": "Sedriques Dumas"},
+        {"fighter1": "Grant Dawson", "fighter2": "Diego Ferreira"},
+        {"fighter1": "Karol Rosa", "fighter2": "Ailin Perez"},
+        {"fighter1": "Rinya Nakamura", "fighter2": "Muin Gafurov"},
+        {"fighter1": "Ricky Turcios", "fighter2": "Benardo Sopaj"},
+        {"fighter1": "Tagir Ulanbekov", "fighter2": "Clayton Carpenter"},
         
    
         
