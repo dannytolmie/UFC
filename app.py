@@ -325,20 +325,19 @@ def block_malicious_paths():
 @app.route('/fightnight')
 def fightnight():
     fights = [
-        {"fighter1": "Islam Makhachev", "fighter2": "Arman Tsarukyan"},
-        {"fighter1": "Merab Dvalishvili", "fighter2": "Umar Nurmagomedov"},
-        {"fighter1": "Jiri Prochazka", "fighter2": " Jamahal Hill"},
-        {"fighter1": "Beneil Dariush", "fighter2": "Renato Moicano"},
-        {"fighter1": "Kevin Holland", "fighter2": "Reinier de Ridder"},
-        {"fighter1": "Johnny Walker", "fighter2": "Bogdan Guskov"},
-        {"fighter1": "Payton Talbott", "fighter2": "Raoni Barcelos"},
-        {"fighter1": "Jailton Almeida", "fighter2": "Serghei Spivac"},
-        {"fighter1": "Zach Reese", "fighter2": "Sedriques Dumas"},
-        {"fighter1": "Grant Dawson", "fighter2": "Diego Ferreira"},
-        {"fighter1": "Karol Rosa", "fighter2": "Ailin Perez"},
-        {"fighter1": "Rinya Nakamura", "fighter2": "Muin Gafurov"},
-        {"fighter1": "Ricky Turcios", "fighter2": "Benardo Sopaj"},
-        {"fighter1": "Tagir Ulanbekov", "fighter2": "Clayton Carpenter"},
+        {"fighter1": "Israel Adesanya", "fighter2": "Nassourdine Imavov"},
+        {"fighter1": "Shara Magomedov", "fighter2": "Michael Page"},
+        {"fighter1": "Sergei Pavlovich", "fighter2": " Jairzinho Rozenstruik"},
+        {"fighter1": "Said Nurmagomedov", "fighter2": "Vinicius Oliveira"},
+        {"fighter1": "Ikram Aliskerov", "fighter2": "Andre Muniz"},
+        {"fighter1": "Muhammad Naimov", "fighter2": "Kaan Ofli"},
+        {"fighter1": "Shamil Gaziev", "fighter2": "Thomas Petersen"},
+        {"fighter1": "Jordan Leavitt", "fighter2": "Abdul-Kareem Al-Selwady"},
+        {"fighter1": "Terrance McKinney", "fighter2": "Damir Hadzovic"},
+        {"fighter1": "Fares Ziam", "fighter2": "Mike Davis"},
+        {"fighter1": "Bogdan Grad", "fighter2": "Lucas Alexander"},
+        {"fighter1": "Hamdy Abdelwahab", "fighter2": "Jamal Pogues"},
+        {"fighter1": "Mayra Bueno Silva", "fighter2": "Jasmine Jasudavicius"},       
         
    
         
