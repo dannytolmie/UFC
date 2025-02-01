@@ -325,20 +325,18 @@ def block_malicious_paths():
 @app.route('/fightnight')
 def fightnight():
     fights = [
-        {"fighter1": "Israel Adesanya", "fighter2": "Nassourdine Imavov"},
-        {"fighter1": "Shara Magomedov", "fighter2": "Michael Page"},
-        {"fighter1": "Sergei Pavlovich", "fighter2": " Jairzinho Rozenstruik"},
-        {"fighter1": "Said Nurmagomedov", "fighter2": "Vinicius Oliveira"},
-        {"fighter1": "Ikram Aliskerov", "fighter2": "Andre Muniz"},
-        {"fighter1": "Muhammad Naimov", "fighter2": "Kaan Ofli"},
-        {"fighter1": "Shamil Gaziev", "fighter2": "Thomas Petersen"},
-        {"fighter1": "Jordan Leavitt", "fighter2": "Abdul-Kareem Al-Selwady"},
-        {"fighter1": "Terrance McKinney", "fighter2": "Damir Hadzovic"},
-        {"fighter1": "Fares Ziam", "fighter2": "Mike Davis"},
-        {"fighter1": "Bogdan Grad", "fighter2": "Lucas Alexander"},
-        {"fighter1": "Hamdy Abdelwahab", "fighter2": "Jamal Pogues"},
-        {"fighter1": "Mayra Bueno Silva", "fighter2": "Jasmine Jasudavicius"},       
-        
+        {"fighter1": "Dricus Du Plessis", "fighter2": "Sean Strickland"},
+        {"fighter1": "Zhang Weili", "fighter2": "Tatiana Suarez"},
+        {"fighter1": "Justin Tafa", "fighter2": "Tallison Teixeira"},
+        {"fighter1": "Jimmy Crute", "fighter2": "Rodolfo Bellato"},
+        {"fighter1": "Jake Matthews", "fighter2": "Francisco Prado"},
+        {"fighter1": "Jack Jenkins", "fighter2": "Gabriel Santos"},
+        {"fighter1": "Tom Nolan", "fighter2": "Viacheslav Borshchev"},
+        {"fighter1": "Wang Cong", "fighter2": "Bruna Brasil"},        
+        {"fighter1": "Jonathan Micallef", "fighter2": "Kevin Jousset"},
+        {"fighter1": "Quillan Salkilld", "fighter2": "Anshul Jubli"},
+        {"fighter1": "Kody Steele", "fighter2": "Rongzhu"},   
+        {"fighter1": "Nyamjargal Tumendemberel", "fighter2": "HyunSung Park"},   
    
         
         # Add more fights as needed
