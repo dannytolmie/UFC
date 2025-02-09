@@ -321,23 +321,26 @@ def block_malicious_paths():
     blocked_paths = ["/xmlrpc.php", "/admin.php", "/pegi.php"]
     if request.path in blocked_paths:
         return abort(403)  # Forbidden
-        
+
+
 @app.route('/fightnight')
 def fightnight():
     fights = [
-        {"fighter1": "Dricus Du Plessis", "fighter2": "Sean Strickland"},
-        {"fighter1": "Zhang Weili", "fighter2": "Tatiana Suarez"},
-        {"fighter1": "Justin Tafa", "fighter2": "Tallison Teixeira"},
-        {"fighter1": "Jimmy Crute", "fighter2": "Rodolfo Bellato"},
-        {"fighter1": "Jake Matthews", "fighter2": "Francisco Prado"},
-        {"fighter1": "Jack Jenkins", "fighter2": "Gabriel Santos"},
-        {"fighter1": "Tom Nolan", "fighter2": "Viacheslav Borshchev"},
-        {"fighter1": "Wang Cong", "fighter2": "Bruna Brasil"},        
-        {"fighter1": "Jonathan Micallef", "fighter2": "Kevin Jousset"},
-        {"fighter1": "Quillan Salkilld", "fighter2": "Anshul Jubli"},
-        {"fighter1": "Kody Steele", "fighter2": "Rongzhu"},   
-        {"fighter1": "Nyamjargal Tumendemberel", "fighter2": "HyunSung Park"},   
-   
+        {"fighter1": "Jared Cannonier", "fighter2": "Gregory Rodrigues"},
+        {"fighter1": "Calvin Kattar", "fighter2": "Youssef Zalal"},
+        {"fighter1": "Edmen Shahbazyan", "fighter2": "Dylan Budka"},
+        {"fighter1": "Ismael Bonfim", "fighter2": "Nazim Sadykhov"},
+        {"fighter1": "Rodolfo Vieira", "fighter2": "Andre Petroski"},
+        {"fighter1": "Connor Matthews", "fighter2": "Jose Delgado"},
+        {"fighter1": "Angela Hill", "fighter2": "Ketlen Souza"},
+        {"fighter1": "Jared Gordon", "fighter2": "Kaue Fernandes"},        
+        {"fighter1": "Rafael Estevam", "fighter2": "Jesus Aguilar"},
+        {"fighter1": "Gabriel Bonfim", "fighter2": "Khaos Williams"},
+        {"fighter1": "Vince Morales", "fighter2": "Elijah Smith"},   
+        {"fighter1": "Don'Tale Mayes", "fighter2": "Valter Walker"},   
+        {"fighter1": "Julia Avila", "fighter2": "Jacqueline Cavalcanti"},          
+        # Add more fights as needed
+    ]
         
         # Add more fights as needed
     ]
