@@ -342,8 +342,7 @@ def fightnight():
         # Add more fights as needed
     ]
         
-        # Add more fights as needed
-    ]
+
 
     predictions = []
     for fight in fights:
