@@ -322,23 +322,20 @@ def block_malicious_paths():
     if request.path in blocked_paths:
         return abort(403)  # Forbidden
 
-
 @app.route('/fightnight')
 def fightnight():
     fights = [
-        {"fighter1": "Jared Cannonier", "fighter2": "Gregory Rodrigues"},
-        {"fighter1": "Calvin Kattar", "fighter2": "Youssef Zalal"},
-        {"fighter1": "Edmen Shahbazyan", "fighter2": "Dylan Budka"},
-        {"fighter1": "Ismael Bonfim", "fighter2": "Nazim Sadykhov"},
-        {"fighter1": "Rodolfo Vieira", "fighter2": "Andre Petroski"},
-        {"fighter1": "Connor Matthews", "fighter2": "Jose Delgado"},
-        {"fighter1": "Angela Hill", "fighter2": "Ketlen Souza"},
-        {"fighter1": "Jared Gordon", "fighter2": "Kaue Fernandes"},        
-        {"fighter1": "Rafael Estevam", "fighter2": "Jesus Aguilar"},
-        {"fighter1": "Gabriel Bonfim", "fighter2": "Khaos Williams"},
-        {"fighter1": "Vince Morales", "fighter2": "Elijah Smith"},   
-        {"fighter1": "Don'Tale Mayes", "fighter2": "Valter Walker"},   
-        {"fighter1": "Julia Avila", "fighter2": "Jacqueline Cavalcanti"},          
+        {"fighter1": "Henry Cejudo", "fighter2": "Song Yadong"},
+        {"fighter1": "Brendan Allen", "fighter2": "Anthony Hernandez"},
+        {"fighter1": "Jean Silva", "fighter2": "Melsik Baghdasaryan"},
+        {"fighter1": "Rob Font", "fighter2": "Jean Matsumoto"},
+        {"fighter1": "Ion Cutelaba", "fighter2": "Ibo Aslan"},
+        {"fighter1": "Andre Fili", "fighter2": "Melquizael Costa"},        
+        {"fighter1": "Adam Fugitt", "fighter2": "Billy Goff"},
+        {"fighter1": "Ricky Simon", "fighter2": "Javid Basharat"},
+        {"fighter1": "Mansur Abdul-Malik", "fighter2": "Nick Klein"},   
+        {"fighter1": "Modestas Bukauskas", "fighter2": "Rafael Cerqueira"},   
+        
         # Add more fights as needed
     ]
         
