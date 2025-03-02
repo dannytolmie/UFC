@@ -326,19 +326,18 @@ def block_malicious_paths():
 @app.route('/fightnight')
 def fightnight():
     fights = [
-        {"fighter1": "Manel Kape", "fighter2": "Asu Almabayev"},
-        {"fighter1": "Cody Brundage", "fighter2": "Julian Marquez"},
-        {"fighter1": "Nasrat Haqparast", "fighter2": "Esteban Ribovics"},
-        {"fighter1": "Austen Lane", "fighter2": "Mario Pinto"},
-        {"fighter1": "Hyder Amil", "fighter2": "William Gomis"},
-        {"fighter1": "Danny Barlow", "fighter2": "Sam Patterson"},        
-        {"fighter1": "Ricardo Ramos", "fighter2": "Chepe Mariscal"},
-        {"fighter1": "Douglas Silva de Andrade", "fighter2": "John Castaneda"},
-        {"fighter1": "Andrea Lee", "fighter2": "JJ Aldrich"},   
-        {"fighter1": "Danny Silva", "fighter2": "Lucas Almeida"},   
-        {"fighter1": "Montana De La Rosa", "fighter2": "Luana Carolina"},   
-        {"fighter1": "Charles Johnson", "fighter2": "Ramazan Temirov"},   
-        
+        {"fighter1": "Alex Pereira", "fighter2": "Magomed Ankalaev"},
+        {"fighter1": "Justin Gaethje", "fighter2": "Rafael Fiziev"},
+        {"fighter1": "Jalin Turner", "fighter2": "Ignacio Bahamondes"},
+        {"fighter1": "Amanda Lemos", "fighter2": "Iasmin Lucindo"},
+        {"fighter1": "King Green", "fighter2": "Mauricio Ruffy"},
+        {"fighter1": "Curtis Blaydes", "fighter2": "Rizvan Kuniev"},        
+        {"fighter1": "Joshua Van", "fighter2": "Rei Tsuruya"},
+        {"fighter1": "Brunno Ferreira", "fighter2": "Armen Petrosyan"},
+        {"fighter1": "Alex Morono", "fighter2": "Carlos Leal"},   
+        {"fighter1": "Mairon Santos", "fighter2": "Francis Marshall"},   
+        {"fighter1": "Djorden Santos", "fighter2": "Ozzy Diaz"},   
+ 
         # Add more fights as needed
     ]
         
