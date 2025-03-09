@@ -326,17 +326,20 @@ def block_malicious_paths():
 @app.route('/fightnight')
 def fightnight():
     fights = [
-        {"fighter1": "Alex Pereira", "fighter2": "Magomed Ankalaev"},
-        {"fighter1": "Justin Gaethje", "fighter2": "Rafael Fiziev"},
-        {"fighter1": "Jalin Turner", "fighter2": "Ignacio Bahamondes"},
-        {"fighter1": "Amanda Lemos", "fighter2": "Iasmin Lucindo"},
-        {"fighter1": "King Green", "fighter2": "Mauricio Ruffy"},
-        {"fighter1": "Curtis Blaydes", "fighter2": "Rizvan Kuniev"},        
-        {"fighter1": "Joshua Van", "fighter2": "Rei Tsuruya"},
-        {"fighter1": "Brunno Ferreira", "fighter2": "Armen Petrosyan"},
-        {"fighter1": "Alex Morono", "fighter2": "Carlos Leal"},   
-        {"fighter1": "Mairon Santos", "fighter2": "Francis Marshall"},   
-        {"fighter1": "Djorden Santos", "fighter2": "Ozzy Diaz"},   
+        {"fighter1": "Marvin Vettori", "fighter2": "Roman Dolidze"},
+        {"fighter1": "Chidi Njokuani", "fighter2": "Elizeu Zaleski dos Santos"},
+        {"fighter1": "Seungwoo Choi", "fighter2": "Kevin Vallejos"},
+        {"fighter1": "Alexander Hernandez", "fighter2": "Kurt Holobaugh"},
+        {"fighter1": "Da'Mon Blackshear", "fighter2": "Cody Gibson"},
+        {"fighter1": "SuYoung You", "fighter2": "AJ Cunningham"},        
+        {"fighter1": "Waldo Cortes-Acosta", "fighter2": "Ryan Spann"},
+        {"fighter1": "Stephanie Luciano", "fighter2": "Sam Hughes"},
+        {"fighter1": "Diyar Nurgozhay", "fighter2": "Brendson Ribeiro"},   
+        {"fighter1": "Carlos Vera", "fighter2": "Josias Musasa"},   
+        {"fighter1": "Daniel Barez", "fighter2": "Andre Lima"},   
+        {"fighter1": "Josiane Nunes", "fighter2": "Priscila Cachoeira"},    
+        {"fighter1": "Evan Elder", "fighter2": "MarQuel Mederos"},   
+        {"fighter1": "Yuneisy Duben", "fighter2": "Carli Judice"},
  
         # Add more fights as needed
     ]
