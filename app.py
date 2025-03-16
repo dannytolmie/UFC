@@ -326,20 +326,19 @@ def block_malicious_paths():
 @app.route('/fightnight')
 def fightnight():
     fights = [
-        {"fighter1": "Marvin Vettori", "fighter2": "Roman Dolidze"},
-        {"fighter1": "Chidi Njokuani", "fighter2": "Elizeu Zaleski dos Santos"},
-        {"fighter1": "Seungwoo Choi", "fighter2": "Kevin Vallejos"},
-        {"fighter1": "Alexander Hernandez", "fighter2": "Kurt Holobaugh"},
-        {"fighter1": "Da'Mon Blackshear", "fighter2": "Cody Gibson"},
-        {"fighter1": "SuYoung You", "fighter2": "AJ Cunningham"},        
-        {"fighter1": "Waldo Cortes-Acosta", "fighter2": "Ryan Spann"},
-        {"fighter1": "Stephanie Luciano", "fighter2": "Sam Hughes"},
-        {"fighter1": "Diyar Nurgozhay", "fighter2": "Brendson Ribeiro"},   
-        {"fighter1": "Carlos Vera", "fighter2": "Josias Musasa"},   
-        {"fighter1": "Daniel Barez", "fighter2": "Andre Lima"},   
-        {"fighter1": "Josiane Nunes", "fighter2": "Priscila Cachoeira"},    
-        {"fighter1": "Evan Elder", "fighter2": "MarQuel Mederos"},   
-        {"fighter1": "Yuneisy Duben", "fighter2": "Carli Judice"},
+        {"fighter1": "Leon Edwards", "fighter2": "Sean Brady"},
+        {"fighter1": "Jan Blachowicz", "fighter2": "Carlos Ulberg"},
+        {"fighter1": "Gunnar Nelson", "fighter2": "Kevin Holland"},
+        {"fighter1": "Molly McCann", "fighter2": "Alexia Thainara"},
+        {"fighter1": "Jordan Vucenic", "fighter2": "Chris Duncan"},
+        {"fighter1": "Nathaniel Wood", "fighter2": "Morgan Charriere"},        
+        {"fighter1": "Jai Herbert", "fighter2": "Chris Padilla"},
+        {"fighter1": "Lone'er Kavanagh", "fighter2": "Felipe dos Santos"},
+        {"fighter1": "Marcin Tybura", "fighter2": "Mick Parkin"},   
+        {"fighter1": "Christian Leroy Duncan", "fighter2": "Andrey Pulyaev"},   
+        {"fighter1": "Shauna Bannon", "fighter2": "Puja Tomar"},   
+        {"fighter1": "Nathan Fletcher", "fighter2": "Caolan Loughran"},    
+        {"fighter1": "Guram Kutateladze", "fighter2": "Kaue Fernandes"},  
  
         # Add more fights as needed
     ]
