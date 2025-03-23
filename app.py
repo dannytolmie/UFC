@@ -326,20 +326,20 @@ def block_malicious_paths():
 @app.route('/fightnight')
 def fightnight():
     fights = [
-        {"fighter1": "Leon Edwards", "fighter2": "Sean Brady"},
-        {"fighter1": "Jan Blachowicz", "fighter2": "Carlos Ulberg"},
-        {"fighter1": "Gunnar Nelson", "fighter2": "Kevin Holland"},
-        {"fighter1": "Molly McCann", "fighter2": "Alexia Thainara"},
-        {"fighter1": "Jordan Vucenic", "fighter2": "Chris Duncan"},
-        {"fighter1": "Nathaniel Wood", "fighter2": "Morgan Charriere"},        
-        {"fighter1": "Jai Herbert", "fighter2": "Chris Padilla"},
-        {"fighter1": "Lone'er Kavanagh", "fighter2": "Felipe dos Santos"},
-        {"fighter1": "Marcin Tybura", "fighter2": "Mick Parkin"},   
-        {"fighter1": "Christian Leroy Duncan", "fighter2": "Andrey Pulyaev"},   
-        {"fighter1": "Shauna Bannon", "fighter2": "Puja Tomar"},   
-        {"fighter1": "Nathan Fletcher", "fighter2": "Caolan Loughran"},    
-        {"fighter1": "Guram Kutateladze", "fighter2": "Kaue Fernandes"},  
- 
+        {"fighter1": "Brandon Moreno", "fighter2": "Steve Erceg"},
+        {"fighter1": "Manuel Torres", "fighter2": "Drew Dober"},
+        {"fighter1": "Kelvin Gastelum", "fighter2": "Joe Pyfer"},
+        {"fighter1": "Raul Rosas Jr.", "fighter2": "Vince Morales"},
+        {"fighter1": "David Martinez", "fighter2": "Saimon Oliveira"},
+        {"fighter1": "Ronaldo Rodriguez", "fighter2": "Kevin Borjas"},        
+        {"fighter1": "Edgar Chairez", "fighter2": "CJ Vergara"},
+        {"fighter1": "Jose Medina", "fighter2": "Ateba Gautier"},
+        {"fighter1": "Christian Rodriguez", "fighter2": "Melquizael Costa"},   
+        {"fighter1": "Loopy Godinez", "fighter2": "Julia Polastri"},   
+        {"fighter1": "Rafa Garcia", "fighter2": "Vinc Pichel"},   
+        {"fighter1": "Jamall Emmers", "fighter2": "Gabriel Miranda"},    
+        {"fighter1": "MarQuel Mederos", "fighter2": "Austin Hubbard"},   
+        
         # Add more fights as needed
     ]
         
